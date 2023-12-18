@@ -6,4 +6,4 @@ A new professional rounded font, perfect for a variety of different applications
 
 As Supernotes is growing, we wanted a font that would grow us and support different international languages as well in the future. Building a better font at the heart of a notetaking app seems like the best idea. At Supernotes we’ve built a custom text editor, based on an open source library we support, so why not do the same for a font.
 
-Designed at Supernotes. Based on [Nunito](https://github.com/googlefonts/nunito) by Vernon Adams. 
+Designed at [Supernotes](https://supernotes.app). Based on [Nunito](https://github.com/googlefonts/nunito) by Vernon Adams. 
