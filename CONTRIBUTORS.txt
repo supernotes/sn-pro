@@ -9,10 +9,11 @@
 # Names should be added to this file as:
 # Name <email address>
 
-vernon adams <vernnobile@gmail.com>
+Vernon Adams <vernnobile@gmail.com>
 Jacques Le Bailly <fonthausen@baronvonfonthausen.com>
 Lasse Fister <commander@graphicore.de>
 Marc Foley <m.foley.88@gmail.com>
 Alexei Vanyashin <a@cyreal.org>
 Yanone <post@yanone.de>
 Rosalie Wagner <mail@rosaliewagner.com>
+Tobias Whetton <tobias@supernotes.app>
