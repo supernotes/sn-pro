@@ -5,4 +5,4 @@
 # font editor temporary files
 *(Autosaved).glyphs
 *.vfbak
-exports/*
+exports/*.zip
