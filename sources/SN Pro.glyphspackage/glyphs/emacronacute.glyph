@@ -46,11 +46,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (293,0);
+pos = (300,0);
 ref = macroncomb_acutecomb;
 }
 );
-width = 559;
+width = 580;
 },
 {
 background = {
@@ -98,7 +98,7 @@ pos = (334,0);
 ref = macroncomb_acutecomb;
 }
 );
-width = 572;
+width = 570;
 },
 {
 background = {

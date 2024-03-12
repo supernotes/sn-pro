@@ -266,7 +266,7 @@ shapes = (
 ref = two;
 }
 );
-width = 600;
+width = 586;
 }
 );
 userData = {

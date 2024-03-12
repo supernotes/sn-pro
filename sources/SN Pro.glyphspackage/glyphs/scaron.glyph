@@ -46,11 +46,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (260,0);
+pos = (265,0);
 ref = caroncomb;
 }
 );
-width = 501;
+width = 506;
 },
 {
 background = {

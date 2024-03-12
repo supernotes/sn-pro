@@ -56,15 +56,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (284,0);
+pos = (295,0);
 ref = dotbelowcomb;
 },
 {
-pos = (289,0);
+pos = (300,0);
 ref = circumflexcomb;
 }
 );
-width = 573;
+width = 584;
 },
 {
 background = {
@@ -120,15 +120,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (259,-1);
+pos = (276,-1);
 ref = dotbelowcomb;
 },
 {
-pos = (320,0);
+pos = (337,0);
 ref = circumflexcomb;
 }
 );
-width = 580;
+width = 597;
 },
 {
 background = {

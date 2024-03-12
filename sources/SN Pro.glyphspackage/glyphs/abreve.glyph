@@ -44,11 +44,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (289,0);
+pos = (300,0);
 ref = brevecomb;
 }
 );
-width = 573;
+width = 584;
 },
 {
 background = {
@@ -92,11 +92,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (320,0);
+pos = (337,0);
 ref = brevecomb;
 }
 );
-width = 580;
+width = 597;
 },
 {
 background = {

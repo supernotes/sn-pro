@@ -60,7 +60,7 @@ shapes = (
 ref = three;
 }
 );
-width = 600;
+width = 584;
 },
 {
 background = {
@@ -180,7 +180,7 @@ shapes = (
 ref = three;
 }
 );
-width = 600;
+width = 579;
 },
 {
 background = {

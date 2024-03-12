@@ -504,7 +504,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 586;
 }
 );
 unicode = 50;
