@@ -1,0 +1,177 @@
+{
+color = 10;
+glyphname = lslash;
+kernLeft = h;
+kernRight = l;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (20,0);
+ref = l;
+},
+{
+pos = (126,0);
+ref = slashshortcomb;
+}
+);
+};
+layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
+metricLeft = "=+20";
+metricRight = "=+20";
+shapes = (
+{
+pos = (20,0);
+ref = l;
+},
+{
+pos = (116,0);
+ref = slashshortcomb;
+}
+);
+width = 257;
+},
+{
+background = {
+shapes = (
+{
+pos = (50,0);
+ref = l;
+},
+{
+pos = (198,-2);
+ref = slashshortcomb;
+}
+);
+};
+layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
+metricLeft = "=+50";
+metricRight = "=+50";
+shapes = (
+{
+pos = (50,0);
+ref = l;
+},
+{
+pos = (194,-2);
+ref = slashshortcomb;
+}
+);
+width = 453;
+},
+{
+background = {
+shapes = (
+{
+pos = (20,0);
+ref = l;
+},
+{
+pos = (144,0);
+ref = slashshortcomb;
+}
+);
+};
+layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
+metricLeft = "=+20";
+metricRight = "=+20";
+shapes = (
+{
+pos = (20,0);
+ref = l;
+},
+{
+pos = (144,0);
+ref = slashshortcomb;
+}
+);
+width = 252;
+},
+{
+background = {
+shapes = (
+{
+pos = (50,0);
+ref = l;
+},
+{
+pos = (215,-3);
+ref = slashshortcomb;
+}
+);
+};
+layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
+metricLeft = "=+50";
+metricRight = "=+50";
+shapes = (
+{
+pos = (50,0);
+ref = l;
+},
+{
+pos = (235,-2);
+ref = slashshortcomb;
+}
+);
+width = 466;
+},
+{
+background = {
+shapes = (
+{
+pos = (35,0);
+ref = l;
+},
+{
+pos = (162,-1);
+ref = slashshortcomb;
+}
+);
+};
+layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
+metricLeft = "=+35";
+metricRight = "=+35";
+shapes = (
+{
+pos = (35,0);
+ref = l;
+},
+{
+pos = (154,-1);
+ref = slashshortcomb;
+}
+);
+width = 338;
+},
+{
+background = {
+shapes = (
+{
+pos = (35,0);
+ref = l;
+},
+{
+pos = (180,-1);
+ref = slashshortcomb;
+}
+);
+};
+layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
+metricLeft = "=+35";
+metricRight = "=+35";
+shapes = (
+{
+pos = (35,0);
+ref = l;
+},
+{
+pos = (178,-1);
+ref = slashshortcomb;
+}
+);
+width = 351;
+}
+);
+unicode = 322;
+}

@@ -1,0 +1,225 @@
+{
+color = 10;
+glyphname = eogonek;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (276,484);
+}
+);
+background = {
+anchors = (
+{
+name = top;
+pos = (276,484);
+}
+);
+shapes = (
+{
+ref = e;
+},
+{
+pos = (342,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (342,0);
+ref = ogonekcomb;
+}
+);
+width = 523;
+},
+{
+anchors = (
+{
+name = top;
+pos = (293,484);
+}
+);
+background = {
+anchors = (
+{
+name = top;
+pos = (293,484);
+}
+);
+shapes = (
+{
+ref = e;
+},
+{
+pos = (401,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (401,0);
+ref = ogonekcomb;
+}
+);
+width = 559;
+},
+{
+anchors = (
+{
+name = top;
+pos = (305,484);
+}
+);
+background = {
+anchors = (
+{
+name = top;
+pos = (305,484);
+}
+);
+shapes = (
+{
+ref = e;
+},
+{
+pos = (303,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (303,0);
+ref = ogonekcomb;
+}
+);
+width = 523;
+},
+{
+anchors = (
+{
+name = top;
+pos = (334,484);
+}
+);
+background = {
+anchors = (
+{
+name = top;
+pos = (291,484);
+}
+);
+shapes = (
+{
+ref = e;
+},
+{
+pos = (376,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (376,0);
+ref = ogonekcomb;
+}
+);
+width = 572;
+},
+{
+anchors = (
+{
+name = top;
+pos = (285,484);
+}
+);
+background = {
+anchors = (
+{
+name = top;
+pos = (285,484);
+}
+);
+shapes = (
+{
+ref = e;
+},
+{
+pos = (371,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (373,0);
+ref = ogonekcomb;
+}
+);
+width = 539;
+},
+{
+anchors = (
+{
+name = top;
+pos = (320,484);
+}
+);
+background = {
+anchors = (
+{
+name = top;
+pos = (320,484);
+}
+);
+shapes = (
+{
+ref = e;
+},
+{
+pos = (340,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (340,0);
+ref = ogonekcomb;
+}
+);
+width = 542;
+}
+);
+unicode = 281;
+}
