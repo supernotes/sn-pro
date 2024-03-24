@@ -42,7 +42,7 @@ pos = (3,0);
 ref = o;
 }
 );
-width = 544;
+width = 536;
 },
 {
 anchors = (

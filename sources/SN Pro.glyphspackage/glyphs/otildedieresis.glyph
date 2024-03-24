@@ -22,11 +22,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (269,0);
+pos = (265,0);
 ref = tildecomb_dieresiscomb;
 }
 );
-width = 538;
+width = 530;
 },
 {
 background = {

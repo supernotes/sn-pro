@@ -46,11 +46,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (191,-70);
+pos = (195,-70);
 ref = dieresiscomb.case;
 }
 );
-width = 454;
+width = 448;
 },
 {
 background = {

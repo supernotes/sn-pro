@@ -1,5 +1,5 @@
 {
-.appVersion = "3246";
+.appVersion = "3249";
 .formatVersion = 3;
 axes = (
 {
@@ -579,6 +579,33 @@ sub @LowercaseShort bracketleft' by bracketleft.lowercase;
 sub bracketleft' @LowercaseShort by bracketleft.lowercase;
 sub @LowercaseShort bracketright' by bracketright.lowercase;
 sub bracketright' @LowercaseShort by bracketright.lowercase;
+
+# substitute parentheses, braces and brackets for lowercase variants if next to lowercase version
+sub parenleft.lowercase parenleft' by parenleft.lowercase;
+sub parenleft' parenleft.lowercase by parenleft.lowercase;
+sub parenright.lowercase parenright' by parenright.lowercase;
+sub parenright' parenright.lowercase by parenright.lowercase;
+sub braceleft.lowercase braceleft' by braceleft.lowercase;
+sub braceleft' braceleft.lowercase by braceleft.lowercase;
+sub braceright.lowercase braceright' by braceright.lowercase;
+sub braceright' braceright.lowercase by braceright.lowercase;
+sub bracketleft.lowercase bracketleft' by bracketleft.lowercase;
+sub bracketleft' bracketleft.lowercase by bracketleft.lowercase;
+sub bracketright.lowercase bracketright' by bracketright.lowercase;
+sub bracketright' bracketright.lowercase by bracketright.lowercase;
+
+sub parenleft.lowercase parenright' by parenright.lowercase;
+sub parenright' parenleft.lowercase by parenright.lowercase;
+sub parenright.lowercase parenleft' by parenleft.lowercase;
+sub parenleft' parenright.lowercase by parenleft.lowercase;
+sub braceleft.lowercase braceright' by braceright.lowercase;
+sub braceright' braceleft.lowercase by braceright.lowercase;
+sub braceright.lowercase braceleft' by braceleft.lowercase;
+sub braceleft' braceright.lowercase by braceleft.lowercase;
+sub bracketleft.lowercase braceright' by bracketright.lowercase;
+sub braceright' bracketleft.lowercase by bracketright.lowercase;
+sub bracketright.lowercase bracketleft' by bracketleft.lowercase;
+sub bracketleft' bracketright.lowercase by bracketleft.lowercase;
 ";
 tag = calt;
 },
@@ -757,9 +784,12 @@ stemValues = (
 );
 userData = {
 GSCornerRadius = 40;
-GSExtrudeAngle = 30;
-GSExtrudeOffset = 15;
+GSExtrudeAngle = 0;
+GSExtrudeDontSubtract = 1;
+GSExtrudeOffset = 40;
 GSOffsetHorizontal = 20;
+GSOffsetMakeStroke = 1;
+GSOffsetPosition = 1;
 GSOffsetVertical = 20;
 };
 },
@@ -909,7 +939,6 @@ GSExtrudeOffset = 20;
 GSOffsetHorizontal = -20;
 GSOffsetVertical = -20;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -981,7 +1010,8 @@ Location = 0;
 );
 guides = (
 {
-pos = (468,484);
+angle = -5;
+pos = (476,583);
 },
 {
 pos = (468,670);
@@ -1025,10 +1055,12 @@ stemValues = (
 );
 userData = {
 GSCornerRadius = 40;
-GSOffsetHorizontal = -26;
-GSOffsetVertical = -26;
+GSOffsetHorizontal = -100;
+GSOffsetKeepCompatible = 1;
+GSOffsetMakeStroke = 1;
+GSOffsetPosition = 0;
+GSOffsetVertical = -100;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -6707,7 +6739,7 @@ rightArrow = -60;
 "@MMK_L_O" = {
 "@MMK_R_A" = -20;
 "@MMK_R_J" = -35;
-"@MMK_R_T" = -40;
+"@MMK_R_T" = -30;
 "@MMK_R_V" = -20;
 "@MMK_R_X" = -30;
 "@MMK_R_Y" = -40;

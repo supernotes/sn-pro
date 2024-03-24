@@ -24,15 +24,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (262,0);
+pos = (252,0);
 ref = dotbelowcomb;
 },
 {
-pos = (265,0);
+pos = (255,0);
 ref = brevecomb;
 }
 );
-width = 514;
+width = 494;
 },
 {
 background = {

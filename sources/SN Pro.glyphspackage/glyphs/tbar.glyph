@@ -46,11 +46,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (208,-8);
+pos = (212,-8);
 ref = strokeshortcomb.t;
 }
 );
-width = 454;
+width = 448;
 },
 {
 background = {

@@ -20,11 +20,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (265,0);
+pos = (255,0);
 ref = brevecomb_gravecomb;
 }
 );
-width = 514;
+width = 494;
 },
 {
 background = {

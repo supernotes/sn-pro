@@ -42,11 +42,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (316,0);
+pos = (312,0);
 ref = horncomb;
 }
 );
-width = 538;
+width = 530;
 },
 {
 anchors = (
