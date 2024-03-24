@@ -20,7 +20,7 @@ alignment = 1;
 ref = hyphen;
 }
 );
-width = 416;
+width = 426;
 },
 {
 background = {
@@ -38,7 +38,7 @@ alignment = 1;
 ref = hyphen;
 }
 );
-width = 452;
+width = 462;
 },
 {
 background = {
@@ -92,7 +92,7 @@ alignment = 1;
 ref = hyphen;
 }
 );
-width = 434;
+width = 444;
 },
 {
 background = {

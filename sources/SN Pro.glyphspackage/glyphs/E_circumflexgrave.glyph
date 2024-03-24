@@ -118,11 +118,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (328,-35);
+pos = (308,-35);
 ref = circumflexcomb_gravecomb.case;
 }
 );
-width = 597;
+width = 577;
 },
 {
 background = {
