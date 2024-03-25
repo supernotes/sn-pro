@@ -64,7 +64,7 @@ pos = (300,0);
 ref = circumflexcomb;
 }
 );
-width = 584;
+width = 579;
 },
 {
 background = {
@@ -96,7 +96,7 @@ pos = (300,0);
 ref = circumflexcomb;
 }
 );
-width = 514;
+width = 504;
 },
 {
 background = {

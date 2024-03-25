@@ -22,11 +22,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (265,0);
+pos = (267,0);
 ref = macroncomb_gravecomb;
 }
 );
-width = 530;
+width = 534;
 },
 {
 background = {

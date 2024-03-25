@@ -50,7 +50,7 @@ pos = (205,-70);
 ref = dieresiscomb.case;
 }
 );
-width = 458;
+width = 448;
 },
 {
 background = {

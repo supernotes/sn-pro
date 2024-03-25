@@ -22,11 +22,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (273,1);
+pos = (260,1);
 ref = ringcomb;
 }
 );
-width = 545;
+width = 517;
 },
 {
 background = {

@@ -26,7 +26,7 @@ pos = (246,0);
 ref = circumflexcomb;
 }
 );
-width = 475;
+width = 469;
 },
 {
 background = {
@@ -46,11 +46,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (255,0);
+pos = (264,0);
 ref = circumflexcomb;
 }
 );
-width = 503;
+width = 512;
 },
 {
 background = {
@@ -70,11 +70,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (268,0);
+pos = (261,0);
 ref = circumflexcomb;
 }
 );
-width = 475;
+width = 468;
 },
 {
 background = {

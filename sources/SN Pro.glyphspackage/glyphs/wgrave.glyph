@@ -46,11 +46,11 @@ shapes = (
 ref = w;
 },
 {
-pos = (414,10);
+pos = (410,10);
 ref = gravecomb;
 }
 );
-width = 819;
+width = 804;
 },
 {
 background = {

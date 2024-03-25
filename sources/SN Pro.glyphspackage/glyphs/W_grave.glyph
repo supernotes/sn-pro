@@ -22,11 +22,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (471,-35);
+pos = (482,-35);
 ref = gravecomb.case;
 }
 );
-width = 944;
+width = 956;
 },
 {
 background = {

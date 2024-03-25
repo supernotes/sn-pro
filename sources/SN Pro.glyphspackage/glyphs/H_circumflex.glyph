@@ -46,11 +46,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (397,-35);
+pos = (380,-35);
 ref = circumflexcomb.case;
 }
 );
-width = 794;
+width = 760;
 },
 {
 background = {

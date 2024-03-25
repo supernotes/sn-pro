@@ -22,11 +22,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (204,0);
+pos = (194,0);
 ref = acutecomb;
 }
 );
-width = 318;
+width = 308;
 },
 {
 background = {
@@ -46,11 +46,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (249,0);
+pos = (245,0);
 ref = acutecomb;
 }
 );
-width = 457;
+width = 453;
 },
 {
 background = {
@@ -118,11 +118,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (220,0);
+pos = (210,0);
 ref = acutecomb;
 }
 );
-width = 374;
+width = 364;
 },
 {
 background = {

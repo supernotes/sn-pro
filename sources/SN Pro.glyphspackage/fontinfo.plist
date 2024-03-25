@@ -34,9 +34,13 @@ name = Whitespace;
 },
 {
 automatic = 1;
-code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotaccent adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring aringacute atilde ae aeacute c cacute ccaron ccedilla ccedillaacute ccircumflex cdotaccent e eacute ebreve ecaron ecedillabreve ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron emacronacute emacrongrave eogonek etilde schwa ezh ezhcaron g gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron gstroke m mdotbelow n nacute napostrophe ncaron ncommaaccent ndotaccent ndotbelow nj nlinebelow ntilde eng o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccentmacron odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron omacronacute omacrongrave oogonek oslash oslashacute otilde otildeacute otildedieresis otildemacron oe p thorn q r racute rcaron rcommaaccent rdblgrave rdotbelow rinvertedbreve rlinebelow s sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent germandbls u uacute ubreve ucaron ucircumflex udblgrave udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek uring utilde utildeacute v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhook yhookabove ymacron ytilde z zacute zcaron zdotaccent zdotbelow germandbls.calt iacute_j.loclNLD lacute.ss a.ss02 aacute.ss02 abreve.ss02 abreveacute.ss02 abrevedotbelow.ss02 abrevegrave.ss02 abrevehookabove.ss02 abrevetilde.ss02 acaron.ss02 acircumflex.ss02 acircumflexacute.ss02 acircumflexdotbelow.ss02 acircumflexgrave.ss02 acircumflexhookabove.ss02 acircumflextilde.ss02 adblgrave.ss02 adieresis.ss02 adotaccent.ss02 adotbelow.ss02 agrave.ss02 ahookabove.ss02 ainvertedbreve.ss02 amacron.ss02 aogonek.ss02 aring.ss02 aringacute.ss02 atilde.ss02 l.ss03 lacute.ss03 lcaron.ss03 lcommaaccent.ss03 ldot.ss03 ldotbelow.ss03 lj.ss03 llinebelow.ss03 lslash.ss03 fl i_j.loclNLD fi.ss03 fl.ss03 a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy gedescender-cy ghestroke-cy ghemiddlehook-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy iishorttail-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy yeru-cy hardsign-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy yat-cy yusbig-cy fita-cy izhitsa-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kastroke-cy kabashkir-cy endescender-cy enghe-cy pedescender-cy haabkhasian-cy esdescender-cy tedescender-cy ustraight-cy ustraightstroke-cy hadescender-cy tetse-cy chedescender-cy cheverticalstroke-cy shha-cy shhadescender-cy cheabkhasian-cy chedescenderabkhasian-cy palochka-cy zhebreve-cy kahook-cy eltail-cy enhook-cy entail-cy chekhakassian-cy emtail-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy schwadieresis-cy zhedieresis-cy zedieresis-cy dzeabkhasian-cy imacron-cy idieresis-cy odieresis-cy obarred-cy obarreddieresis-cy edieresis-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy yerudieresis-cy gestrokehook-cy hahook-cy hastroke-cy reversedze-cy elhook-cy qa-cy we-cy semisoftsign-cy ertick-cy enlefthook-cy eldescender-cy ghestroke-cy.loclBSH i-cy.loclBSH zedescender-cy.loclBSH esdescender-cy.loclBSH zedescender-cy.loclCHU esdescender-cy.loclCHU mu pi
+code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotaccent adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring aringacute atilde ae aeacute c cacute ccaron ccedilla ccedillaacute ccircumflex cdotaccent e eacute ebreve ecaron ecedillabreve ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron emacronacute emacrongrave eogonek etilde schwa ezh ezhcaron g gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron gstroke m mdotbelow n nacute napostrophe ncaron ncommaaccent ndotaccent ndotbelow nj nlinebelow ntilde eng o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccentmacron odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron omacronacute omacrongrave oogonek oslash oslashacute otilde otildeacute otildedieresis otildemacron oe p thorn q r racute rcaron rcommaaccent rdblgrave rdotbelow rinvertedbreve rlinebelow s sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent germandbls u uacute ubreve ucaron ucircumflex udblgrave udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek uring utilde utildeacute v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhook yhookabove ymacron ytilde z zacute zcaron zdotaccent zdotbelow germandbls.calt iacute_j.loclNLD lacute.ss a.ss02 aacute.ss02 abreve.ss02 abreveacute.ss02 abrevedotbelow.ss02 abrevegrave.ss02 abrevehookabove.ss02 abrevetilde.ss02 acaron.ss02 acircumflex.ss02 acircumflexacute.ss02 acircumflexdotbelow.ss02 acircumflexgrave.ss02 acircumflexhookabove.ss02 acircumflextilde.ss02 adblgrave.ss02 adieresis.ss02 adotaccent.ss02 adotbelow.ss02 agrave.ss02 ahookabove.ss02 ainvertedbreve.ss02 amacron.ss02 aogonek.ss02 aring.ss02 aringacute.ss02 atilde.ss02 l.ss03 lacute.ss03 lcaron.ss03 lcommaaccent.ss03 ldot.ss03 ldotbelow.ss03 lj.ss03 llinebelow.ss03 lslash.ss03 fl i_j.loclNLD fi.ss03 fl.ss03 a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy gedescender-cy ghestroke-cy ghemiddlehook-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy iishorttail-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy yeru-cy hardsign-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy yat-cy yusbig-cy fita-cy izhitsa-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kastroke-cy kabashkir-cy endescender-cy enghe-cy pedescender-cy haabkhasian-cy esdescender-cy tedescender-cy ustraight-cy ustraightstroke-cy hadescender-cy tetse-cy chedescender-cy cheverticalstroke-cy shha-cy shhadescender-cy cheabkhasian-cy chedescenderabkhasian-cy palochka-cy zhebreve-cy kahook-cy eltail-cy enhook-cy entail-cy chekhakassian-cy emtail-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy schwadieresis-cy zhedieresis-cy zedieresis-cy dzeabkhasian-cy imacron-cy idieresis-cy odieresis-cy obarred-cy obarreddieresis-cy edieresis-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy yerudieresis-cy gestrokehook-cy hahook-cy hastroke-cy reversedze-cy elhook-cy qa-cy we-cy semisoftsign-cy ertick-cy enlefthook-cy eldescender-cy ghestroke-cy.loclBSH i-cy.loclBSH zedescender-cy.loclBSH esdescender-cy.loclBSH zedescender-cy.loclCHU esdescender-cy.loclCHU mu pi parenleft.lowercase parenright.lowercase braceleft.lowercase braceright.lowercase bracketleft.lowercase bracketright.lowercase less.lowercase greater.lowercase numbersign.lowercase colon.lowercase semicolon.lowercase
 ";
 name = LowercaseShort;
+},
+{
+code = "parenleft parenright braceleft braceright bracketleft bracketright less greater numbersign";
+name = Delimiters;
 }
 );
 customParameters = (
@@ -518,7 +522,7 @@ tag = ss01;
 code = "sub @Uppercase germandbls' @Uppercase by germandbls.calt;
 sub @Uppercase @Uppercase germandbls' by germandbls.calt;
 
-# substitute hyphens / dashes with alt version if next to lowercase
+# substitute hyphens / dashes / colons with alt version if next to lowercase
 sub @Lowercase hyphen' by hyphen.lowercase;
 sub hyphen' @Lowercase by hyphen.lowercase;
 sub @Lowercase softhyphen' by softhyphen.lowercase;
@@ -533,8 +537,12 @@ sub @Lowercase horizontalbar' by horizontalbar.lowercase;
 sub horizontalbar' @Lowercase by horizontalbar.lowercase;
 sub @Lowercase hyphentwo' by hyphentwo.lowercase;
 sub hyphentwo' @Lowercase by hyphentwo.lowercase;
+sub @Lowercase colon' by colon.lowercase;
+sub colon' @Lowercase by colon.lowercase;
+sub @Lowercase semicolon' by semicolon.lowercase;
+sub semicolon' @Lowercase by semicolon.lowercase;
 
-# substitute hyphens / dashes with alt version if next to whitespace then lowercase
+# substitute hyphens / dashes / colons with alt version if next to whitespace then lowercase
 sub @Lowercase @Whitespace hyphen' by hyphen.lowercase;
 sub hyphen' @Whitespace @Lowercase by hyphen.lowercase;
 sub @Lowercase @Whitespace softhyphen' by softhyphen.lowercase;
@@ -549,8 +557,12 @@ sub @Lowercase @Whitespace horizontalbar' by horizontalbar.lowercase;
 sub horizontalbar' @Whitespace @Lowercase by horizontalbar.lowercase;
 sub @Lowercase @Whitespace hyphentwo' by hyphentwo.lowercase;
 sub hyphentwo' @Whitespace @Lowercase by hyphentwo.lowercase;
+sub @Lowercase @Whitespace colon' by colon.lowercase;
+sub colon' @Whitespace @Lowercase by colon.lowercase;
+sub @Lowercase @Whitespace semicolon' by semicolon.lowercase;
+sub semicolon' @Whitespace @Lowercase by semicolon.lowercase; 
 
-# substitute hyphens / dashes with alt version if next to another alt version
+# substitute hyphens / dashes / colons with alt version if next to another alt version
 sub hyphen.lowercase hyphen' by hyphen.lowercase;
 sub hyphen' hyphen.lowercase by hyphen.lowercase;
 sub softhyphen.lowercase softhyphen' by softhyphen.lowercase;
@@ -565,47 +577,56 @@ sub horizontalbar.lowercase horizontalbar' by horizontalbar.lowercase;
 sub horizontalbar' horizontalbar.lowercase by horizontalbar.lowercase;
 sub hyphentwo.lowercase hyphentwo' by hyphentwo.lowercase;
 sub hyphentwo' hyphentwo.lowercase by hyphentwo.lowercase;
+sub colon.lowercase colon' by colon.lowercase;
+sub colon' colon.lowercase by colon.lowercase;
+sub semicolon.lowercase semicolon' by semicolon.lowercase;
+sub semicolon' semicolon.lowercase by semicolon.lowercase;
 
 # substitute parentheses, braces and brackets for lowercase variants
 sub @LowercaseShort parenleft' by parenleft.lowercase;
 sub parenleft' @LowercaseShort by parenleft.lowercase;
+sub @LowercaseShort @Delimiters parenleft' by parenleft.lowercase;
+sub parenleft' @Delimiters @LowercaseShort by parenleft.lowercase;
+
 sub @LowercaseShort parenright' by parenright.lowercase;
 sub parenright' @LowercaseShort by parenright.lowercase;
+sub @LowercaseShort @Delimiters parenright' by parenright.lowercase;
+sub parenright' @Delimiters @LowercaseShort by parenright.lowercase;
+
 sub @LowercaseShort braceleft' by braceleft.lowercase;
 sub braceleft' @LowercaseShort by braceleft.lowercase;
+sub @LowercaseShort @Delimiters braceleft' by braceleft.lowercase;
+sub braceleft' @Delimiters @LowercaseShort by braceleft.lowercase;
+
 sub @LowercaseShort braceright' by braceright.lowercase;
 sub braceright' @LowercaseShort by braceright.lowercase;
+sub @LowercaseShort @Delimiters braceright' by braceright.lowercase;
+sub braceright' @Delimiters @LowercaseShort by braceright.lowercase;
+
 sub @LowercaseShort bracketleft' by bracketleft.lowercase;
 sub bracketleft' @LowercaseShort by bracketleft.lowercase;
+sub @LowercaseShort @Delimiters bracketleft' by bracketleft.lowercase;
+sub bracketleft' @Delimiters @LowercaseShort by bracketleft.lowercase;
+
 sub @LowercaseShort bracketright' by bracketright.lowercase;
 sub bracketright' @LowercaseShort by bracketright.lowercase;
+sub @LowercaseShort @Delimiters bracketright' by bracketright.lowercase;
+sub bracketright' @Delimiters @LowercaseShort by bracketright.lowercase;
 
-# substitute parentheses, braces and brackets for lowercase variants if next to lowercase version
-sub parenleft.lowercase parenleft' by parenleft.lowercase;
-sub parenleft' parenleft.lowercase by parenleft.lowercase;
-sub parenright.lowercase parenright' by parenright.lowercase;
-sub parenright' parenright.lowercase by parenright.lowercase;
-sub braceleft.lowercase braceleft' by braceleft.lowercase;
-sub braceleft' braceleft.lowercase by braceleft.lowercase;
-sub braceright.lowercase braceright' by braceright.lowercase;
-sub braceright' braceright.lowercase by braceright.lowercase;
-sub bracketleft.lowercase bracketleft' by bracketleft.lowercase;
-sub bracketleft' bracketleft.lowercase by bracketleft.lowercase;
-sub bracketright.lowercase bracketright' by bracketright.lowercase;
-sub bracketright' bracketright.lowercase by bracketright.lowercase;
+sub @LowercaseShort less' by less.lowercase;
+sub less' @LowercaseShort by less.lowercase;
+sub @LowercaseShort @Delimiters less' by less.lowercase;
+sub less' @Delimiters @LowercaseShort by less.lowercase;
 
-sub parenleft.lowercase parenright' by parenright.lowercase;
-sub parenright' parenleft.lowercase by parenright.lowercase;
-sub parenright.lowercase parenleft' by parenleft.lowercase;
-sub parenleft' parenright.lowercase by parenleft.lowercase;
-sub braceleft.lowercase braceright' by braceright.lowercase;
-sub braceright' braceleft.lowercase by braceright.lowercase;
-sub braceright.lowercase braceleft' by braceleft.lowercase;
-sub braceleft' braceright.lowercase by braceleft.lowercase;
-sub bracketleft.lowercase braceright' by bracketright.lowercase;
-sub braceright' bracketleft.lowercase by bracketright.lowercase;
-sub bracketright.lowercase bracketleft' by bracketleft.lowercase;
-sub bracketleft' bracketright.lowercase by bracketleft.lowercase;
+sub @LowercaseShort greater' by greater.lowercase;
+sub greater' @LowercaseShort by greater.lowercase;
+sub @LowercaseShort @Delimiters greater' by greater.lowercase;
+sub greater' @Delimiters @LowercaseShort by greater.lowercase;
+
+sub @LowercaseShort numbersign' by numbersign.lowercase;
+sub numbersign' @LowercaseShort by numbersign.lowercase;
+sub @LowercaseShort @Delimiters numbersign' by numbersign.lowercase;
+sub numbersign' @Delimiters @LowercaseShort by numbersign.lowercase;
 ";
 tag = calt;
 },
@@ -783,7 +804,7 @@ stemValues = (
 43
 );
 userData = {
-GSCornerRadius = 40;
+GSCornerRadius = 20;
 GSExtrudeAngle = 0;
 GSExtrudeDontSubtract = 1;
 GSExtrudeOffset = 40;
@@ -939,7 +960,6 @@ GSExtrudeOffset = 20;
 GSOffsetHorizontal = -20;
 GSOffsetVertical = -20;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -1062,6 +1082,7 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 0;
 GSOffsetVertical = -100;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -1883,7 +1904,7 @@ kerningLTR = {
 "@MMK_R_S" = -5;
 "@MMK_R_T" = -75;
 "@MMK_R_U" = -5;
-"@MMK_R_V" = -130;
+"@MMK_R_V" = -100;
 "@MMK_R_X" = -20;
 "@MMK_R_Y" = -65;
 "@MMK_R_Z" = -10;
@@ -1955,7 +1976,7 @@ rightArrow = -40;
 };
 "@MMK_L_C" = {
 "@MMK_R_A" = -20;
-"@MMK_R_J" = -10;
+"@MMK_R_J" = 0;
 "@MMK_R_O" = -20;
 "@MMK_R_S" = -10;
 "@MMK_R_T" = -10;
@@ -2655,7 +2676,7 @@ rightArrow = -40;
 "@MMK_R_ve-cy" = -75;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = -130;
+"@MMK_R_A" = -100;
 "@MMK_R_Bhook" = 10;
 "@MMK_R_J" = -55;
 "@MMK_R_O" = -15;
@@ -4137,7 +4158,7 @@ rightArrow = -60;
 };
 "@MMK_L_C" = {
 "@MMK_R_A" = -15;
-"@MMK_R_J" = -3;
+"@MMK_R_J" = 0;
 "@MMK_R_O" = -23;
 "@MMK_R_S" = -15;
 "@MMK_R_T" = -10;
@@ -4476,7 +4497,7 @@ rightArrow = -60;
 "@MMK_R_f" = -13;
 "@MMK_R_guilsinglleft" = -43;
 "@MMK_R_guilsinglright" = -10;
-"@MMK_R_h" = 25;
+"@MMK_R_h" = 0;
 "@MMK_R_hyphen" = -33;
 "@MMK_R_o" = -13;
 "@MMK_R_ord" = -3;
@@ -4837,7 +4858,7 @@ rightArrow = -60;
 "@MMK_R_ve-cy" = -78;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = -100;
+"@MMK_R_A" = -80;
 "@MMK_R_Bhook" = 10;
 "@MMK_R_J" = -58;
 "@MMK_R_O" = -18;
@@ -5548,6 +5569,7 @@ greater = -90;
 idotaccent = 15;
 };
 "@MMK_L_lalt" = {
+"@MMK_R_h" = -10;
 "@MMK_R_t" = -30;
 "@MMK_R_v" = -10;
 };
@@ -5960,7 +5982,7 @@ jdotless = 100;
 "@MMK_R_quesion" = 5;
 "@MMK_R_quoteleft" = 0;
 "@MMK_R_slash" = 50;
-"@MMK_R_t" = -20;
+"@MMK_R_t" = -28;
 "@MMK_R_trademark" = -1;
 "@MMK_R_v" = 8;
 "@MMK_R_x" = 10;
@@ -6330,7 +6352,7 @@ rightArrow = -60;
 };
 "@MMK_L_C" = {
 "@MMK_R_A" = -10;
-"@MMK_R_J" = 5;
+"@MMK_R_J" = 0;
 "@MMK_R_O" = -25;
 "@MMK_R_S" = -20;
 "@MMK_R_T" = -10;
@@ -6669,7 +6691,7 @@ rightArrow = -60;
 "@MMK_R_f" = -15;
 "@MMK_R_guilsinglleft" = -45;
 "@MMK_R_guilsinglright" = -10;
-"@MMK_R_h" = 50;
+"@MMK_R_h" = 0;
 "@MMK_R_hyphen" = -35;
 "@MMK_R_o" = -15;
 "@MMK_R_ord" = 5;
@@ -8151,7 +8173,7 @@ jdotless = 100;
 "@MMK_R_slash" = 50;
 "@MMK_R_t" = -25;
 "@MMK_R_trademark" = 3;
-"@MMK_R_v" = 10;
+"@MMK_R_v" = 5;
 "@MMK_R_x" = 10;
 "@MMK_R_z" = 5;
 };

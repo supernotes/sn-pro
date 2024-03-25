@@ -38,11 +38,11 @@ pos = (234,0);
 ref = J;
 },
 {
-pos = (457,-35);
+pos = (482,-35);
 ref = acutecomb.case;
 }
 );
-width = 588;
+width = 584;
 },
 {
 background = {
@@ -78,11 +78,11 @@ pos = (329,0);
 ref = J;
 },
 {
-pos = (682,-35);
+pos = (727,-35);
 ref = acutecomb.case;
 }
 );
-width = 847;
+width = 881;
 },
 {
 background = {
@@ -198,11 +198,11 @@ pos = (282,0);
 ref = J;
 },
 {
-pos = (601,-35);
+pos = (619,-35);
 ref = acutecomb.case;
 }
 );
-width = 742;
+width = 752;
 },
 {
 background = {

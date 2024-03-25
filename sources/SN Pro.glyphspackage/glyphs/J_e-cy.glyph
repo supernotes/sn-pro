@@ -18,7 +18,7 @@ shapes = (
 ref = J;
 }
 );
-width = 354;
+width = 350;
 },
 {
 background = {
@@ -34,7 +34,7 @@ shapes = (
 ref = J;
 }
 );
-width = 518;
+width = 552;
 },
 {
 background = {
@@ -82,7 +82,7 @@ shapes = (
 ref = J;
 }
 );
-width = 460;
+width = 470;
 },
 {
 background = {

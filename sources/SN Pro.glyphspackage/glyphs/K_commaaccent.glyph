@@ -46,11 +46,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (362,0);
+pos = (355,0);
 ref = commaaccentcomb;
 }
 );
-width = 739;
+width = 726;
 },
 {
 background = {
@@ -118,11 +118,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (332,0);
+pos = (315,0);
 ref = commaaccentcomb;
 }
 );
-width = 665;
+width = 618;
 },
 {
 background = {

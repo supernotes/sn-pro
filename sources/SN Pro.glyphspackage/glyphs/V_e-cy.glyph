@@ -34,7 +34,7 @@ shapes = (
 ref = B;
 }
 );
-width = 710;
+width = 700;
 },
 {
 background = {

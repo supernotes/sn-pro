@@ -50,7 +50,7 @@ pos = (339,0);
 ref = caroncomb.alt.t;
 }
 );
-width = 458;
+width = 448;
 },
 {
 background = {

@@ -22,11 +22,11 @@ shapes = (
 ref = J;
 },
 {
-pos = (223,-35);
+pos = (248,-35);
 ref = circumflexcomb.case;
 }
 );
-width = 354;
+width = 350;
 },
 {
 background = {
@@ -46,11 +46,11 @@ shapes = (
 ref = J;
 },
 {
-pos = (353,-35);
+pos = (398,-35);
 ref = circumflexcomb.case;
 }
 );
-width = 518;
+width = 552;
 },
 {
 background = {
@@ -118,11 +118,11 @@ shapes = (
 ref = J;
 },
 {
-pos = (319,-35);
+pos = (337,-35);
 ref = circumflexcomb.case;
 }
 );
-width = 460;
+width = 470;
 },
 {
 background = {

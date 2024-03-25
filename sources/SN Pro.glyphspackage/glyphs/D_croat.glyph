@@ -18,7 +18,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 676;
+width = 693;
 },
 {
 background = {

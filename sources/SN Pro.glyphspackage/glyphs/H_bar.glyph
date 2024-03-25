@@ -100,11 +100,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (397,0);
+pos = (380,0);
 ref = strokelongcomb.case;
 }
 );
-width = 794;
+width = 760;
 },
 {
 background = {

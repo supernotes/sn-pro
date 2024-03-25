@@ -26,7 +26,7 @@ pos = (234,0);
 ref = J;
 }
 );
-width = 588;
+width = 584;
 },
 {
 background = {
@@ -50,7 +50,7 @@ pos = (329,0);
 ref = J;
 }
 );
-width = 847;
+width = 881;
 },
 {
 background = {
@@ -122,7 +122,7 @@ pos = (282,0);
 ref = J;
 }
 );
-width = 742;
+width = 752;
 },
 {
 background = {

@@ -39,7 +39,7 @@ pos = (300,0);
 ref = dotaccentcomb;
 }
 );
-width = 584;
+width = 579;
 },
 {
 layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
@@ -52,7 +52,7 @@ pos = (300,0);
 ref = dotaccentcomb;
 }
 );
-width = 514;
+width = 504;
 },
 {
 layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";

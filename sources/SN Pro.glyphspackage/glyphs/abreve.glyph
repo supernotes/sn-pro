@@ -48,7 +48,7 @@ pos = (300,0);
 ref = brevecomb;
 }
 );
-width = 584;
+width = 579;
 },
 {
 background = {
@@ -72,7 +72,7 @@ pos = (300,0);
 ref = brevecomb;
 }
 );
-width = 514;
+width = 504;
 },
 {
 background = {
