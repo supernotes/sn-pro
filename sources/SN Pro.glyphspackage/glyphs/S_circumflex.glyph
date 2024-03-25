@@ -122,7 +122,7 @@ pos = (325,-35);
 ref = circumflexcomb.case;
 }
 );
-width = 631;
+width = 627;
 },
 {
 background = {

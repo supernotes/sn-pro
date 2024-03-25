@@ -22,11 +22,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (491,-35);
+pos = (471,-35);
 ref = dieresiscomb.case;
 }
 );
-width = 974;
+width = 944;
 },
 {
 background = {
@@ -46,11 +46,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (569,-35);
+pos = (523,-35);
 ref = dieresiscomb.case;
 }
 );
-width = 1136;
+width = 1044;
 },
 {
 background = {
@@ -118,11 +118,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (483,-35);
+pos = (473,-35);
 ref = dieresiscomb.case;
 }
 );
-width = 957;
+width = 937;
 },
 {
 background = {
