@@ -55,4 +55,4 @@ Please make sure ligatures are active within your editor / css. Circled numbersÂ
 While the typeface as a whole has been designed with Markdown in mind, enabling this stylistic set specifically modifies asterisks and graves to be larger and bolder while editing Markdown.
 
 ## Credits & Links
-Designed by Tobias Whetton at [Supernotes](https://supernotes.app). Based on [Nunito](https://github.com/googlefonts/nunito) by Vernon Adams. 
+SN Pro (1.1). Designed by Tobias Whetton at [Supernotes](https://supernotes.app). Based on [Nunito](https://github.com/googlefonts/nunito) by Vernon Adams. 
