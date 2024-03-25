@@ -1,0 +1,153 @@
+{
+color = 10;
+glyphname = odotbelow;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (269,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (267,0);
+ref = dotbelowcomb;
+}
+);
+width = 534;
+},
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (308,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (308,0);
+ref = dotbelowcomb;
+}
+);
+width = 616;
+},
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (243,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (243,0);
+ref = dotbelowcomb;
+}
+);
+width = 538;
+},
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (269,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (269,0);
+ref = dotbelowcomb;
+}
+);
+width = 616;
+},
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (288,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (288,0);
+ref = dotbelowcomb;
+}
+);
+width = 576;
+},
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (256,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (256,0);
+ref = dotbelowcomb;
+}
+);
+width = 576;
+}
+);
+unicode = 7885;
+}
