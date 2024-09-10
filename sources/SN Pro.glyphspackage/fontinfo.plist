@@ -1,5 +1,5 @@
 {
-.appVersion = "3249";
+.appVersion = "3316";
 .formatVersion = 3;
 axes = (
 {
@@ -73,8 +73,8 @@ value = 1;
 name = "Axis Mappings";
 value = {
 slnt = {
--3 = -3;
 0 = 0;
+14 = -3;
 };
 wght = {
 200 = 42;
@@ -792,7 +792,7 @@ pos = -180;
 {
 }
 );
-name = ExtraLight;
+name = Thin;
 stemValues = (
 39,
 41,
@@ -960,6 +960,7 @@ GSExtrudeOffset = 20;
 GSOffsetHorizontal = -20;
 GSOffsetVertical = -20;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -1063,7 +1064,7 @@ pos = -180;
 {
 }
 );
-name = Heavy;
+name = Black;
 stemValues = (
 178,
 179,
@@ -1194,7 +1195,7 @@ pos = -180;
 pos = 9;
 }
 );
-name = "ExtraLight Italic";
+name = "Thin Italic";
 stemValues = (
 39,
 41,
@@ -1436,7 +1437,7 @@ pos = -180;
 pos = 9;
 }
 );
-name = "Heavy Italic";
+name = "Black Italic";
 stemValues = (
 109,
 110,
@@ -1458,6 +1459,10 @@ customParameters = (
 {
 name = fileName;
 value = "SNPro-Variable";
+},
+{
+name = "Italic Style Linking";
+value = 1;
 }
 );
 name = Combined;
@@ -2443,7 +2448,7 @@ rightArrow = -40;
 "@MMK_R_guilsinglleft" = -35;
 "@MMK_R_guilsinglright" = -20;
 "@MMK_R_hyphen" = -30;
-"@MMK_R_n" = -10;
+"@MMK_R_n" = 0;
 "@MMK_R_o" = -20;
 "@MMK_R_ord" = 25;
 "@MMK_R_period" = -50;
@@ -2696,8 +2701,8 @@ rightArrow = -40;
 "@MMK_R_guilsinglright" = -40;
 "@MMK_R_h" = 0;
 "@MMK_R_hyphen" = -45;
-"@MMK_R_n" = -55;
-"@MMK_R_o" = -55;
+"@MMK_R_n" = -35;
+"@MMK_R_o" = -35;
 "@MMK_R_ord" = 30;
 "@MMK_R_period" = -50;
 "@MMK_R_quesion" = 10;
@@ -3075,7 +3080,7 @@ rlinebelow = 80;
 "@MMK_R_slash" = -2;
 "@MMK_R_t" = 1;
 "@MMK_R_trademark" = -25;
-"@MMK_R_v" = -5;
+"@MMK_R_v" = 0;
 "@MMK_R_x" = -5;
 "@MMK_R_z" = 2;
 };
@@ -3885,7 +3890,7 @@ j = 100;
 "@MMK_R_guilsinglleft" = -15;
 "@MMK_R_guilsinglright" = -10;
 "@MMK_R_hyphen" = -20;
-"@MMK_R_o" = -5;
+"@MMK_R_o" = 0;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -50;
 "@MMK_R_quesion" = -20;
@@ -4072,6 +4077,10 @@ seven.numr = {
 tcaron = {
 "@MMK_R_h" = 5;
 };
+three = {
+four = 0;
+three = -10;
+};
 yhook = {
 "@MMK_R_f" = 49;
 "@MMK_R_v" = 30;
@@ -4096,7 +4105,7 @@ yhook = {
 "@MMK_R_guilsinglleft" = -18;
 "@MMK_R_guilsinglright" = -5;
 "@MMK_R_hyphen" = -18;
-"@MMK_R_o" = -5;
+"@MMK_R_o" = -15;
 "@MMK_R_ord" = -88;
 "@MMK_R_period" = 20;
 "@MMK_R_quesion" = -55;
@@ -4625,7 +4634,7 @@ rightArrow = -60;
 "@MMK_R_guilsinglleft" = -38;
 "@MMK_R_guilsinglright" = -15;
 "@MMK_R_hyphen" = -28;
-"@MMK_R_n" = -10;
+"@MMK_R_n" = 0;
 "@MMK_R_o" = -25;
 "@MMK_R_ord" = 23;
 "@MMK_R_period" = -53;
@@ -4878,8 +4887,8 @@ rightArrow = -60;
 "@MMK_R_guilsinglright" = -50;
 "@MMK_R_h" = 10;
 "@MMK_R_hyphen" = -50;
-"@MMK_R_n" = -58;
-"@MMK_R_o" = -63;
+"@MMK_R_n" = -28;
+"@MMK_R_o" = -43;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -55;
 "@MMK_R_quesion" = 15;
@@ -6078,7 +6087,7 @@ jdotless = 100;
 "@MMK_R_guilsinglleft" = -18;
 "@MMK_R_guilsinglright" = -10;
 "@MMK_R_hyphen" = -18;
-"@MMK_R_o" = -25;
+"@MMK_R_o" = 0;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -48;
 "@MMK_R_quesion" = -18;
@@ -6266,6 +6275,9 @@ four = -50;
 };
 seven.numr = {
 "@MMK_R_fraction" = -40;
+};
+three = {
+"@MMK_R_S" = -20;
 };
 yhook = {
 "@MMK_R_f" = 47;
@@ -6819,7 +6831,7 @@ rightArrow = -60;
 "@MMK_R_guilsinglleft" = -40;
 "@MMK_R_guilsinglright" = -10;
 "@MMK_R_hyphen" = -25;
-"@MMK_R_n" = -10;
+"@MMK_R_n" = 0;
 "@MMK_R_o" = -30;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -55;
@@ -7072,8 +7084,8 @@ rightArrow = -60;
 "@MMK_R_guilsinglright" = -60;
 "@MMK_R_h" = 40;
 "@MMK_R_hyphen" = -55;
-"@MMK_R_n" = -60;
-"@MMK_R_o" = -70;
+"@MMK_R_n" = -40;
+"@MMK_R_o" = -50;
 "@MMK_R_ord" = 10;
 "@MMK_R_period" = -60;
 "@MMK_R_quesion" = 20;
@@ -8454,6 +8466,9 @@ four = -40;
 };
 seven.numr = {
 "@MMK_R_fraction" = -30;
+};
+three = {
+two = -10;
 };
 yhook = {
 "@MMK_R_f" = 45;

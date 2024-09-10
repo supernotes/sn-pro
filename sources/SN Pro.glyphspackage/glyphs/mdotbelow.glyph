@@ -118,11 +118,11 @@ shapes = (
 ref = m;
 },
 {
-pos = (440,0);
+pos = (437,0);
 ref = dotbelowcomb;
 }
 );
-width = 877;
+width = 870;
 },
 {
 background = {

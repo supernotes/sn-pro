@@ -22,9 +22,16 @@ If you'd like to include them in css please follow the following guidelines. Thi
 ```css
 @font-face {
   font-family: 'SN Pro';
-  src: url(SNProVF_LINK) format('woff2-variations');
+  src: url(SNPro-VariableRegular) format('woff2-variations');
   font-weight: 200 900;
-  font-style: oblique 0deg 14deg;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SN Pro';
+  src: url(SNPro-VariableItalic) format('woff2-variations');
+  font-weight: 200 900;
+  font-style: italic;
 }
 ```
 

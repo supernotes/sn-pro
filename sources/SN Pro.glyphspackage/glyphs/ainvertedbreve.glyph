@@ -24,7 +24,7 @@ pos = (255,0);
 ref = breveinvertedcomb;
 }
 );
-width = 494;
+width = 484;
 },
 {
 background = {
@@ -68,11 +68,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (300,0);
+pos = (290,0);
 ref = breveinvertedcomb;
 }
 );
-width = 504;
+width = 494;
 },
 {
 background = {

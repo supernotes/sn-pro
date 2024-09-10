@@ -60,7 +60,7 @@ shapes = (
 ref = three;
 }
 );
-width = 584;
+width = 554;
 },
 {
 background = {

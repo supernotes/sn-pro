@@ -21,12 +21,8 @@ nodes = (
 layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
 shapes = (
 {
-pos = (-76,0);
-ref = hyphen.lowercase;
-},
-{
-pos = (160,0);
-ref = hyphen.lowercase;
+pos = (-17,-76);
+ref = endash;
 }
 );
 width = 500;
@@ -48,12 +44,8 @@ nodes = (
 layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
 shapes = (
 {
-pos = (-69,0);
-ref = hyphen.lowercase;
-},
-{
-pos = (93,0);
-ref = hyphen.lowercase;
+pos = (-41,-75);
+ref = endash;
 }
 );
 width = 500;
@@ -75,12 +67,8 @@ nodes = (
 layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
 shapes = (
 {
-pos = (-84,0);
-ref = hyphen.lowercase;
-},
-{
-pos = (154,0);
-ref = hyphen.lowercase;
+pos = (-15,-76);
+ref = endash;
 }
 );
 width = 486;
@@ -102,12 +90,8 @@ nodes = (
 layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
 shapes = (
 {
-pos = (-53,0);
-ref = hyphen.lowercase;
-},
-{
-pos = (99,0);
-ref = hyphen.lowercase;
+pos = (-12,-75);
+ref = endash;
 }
 );
 width = 500;
@@ -129,12 +113,8 @@ nodes = (
 layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
 shapes = (
 {
-pos = (-48,0);
-ref = hyphen.lowercase;
-},
-{
-pos = (114,0);
-ref = hyphen.lowercase;
+pos = (-23,-75);
+ref = endash;
 }
 );
 width = 500;
@@ -156,12 +136,8 @@ nodes = (
 layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
 shapes = (
 {
-pos = (-48,0);
-ref = hyphen.lowercase;
-},
-{
-pos = (114,0);
-ref = hyphen.lowercase;
+pos = (-14,-76);
+ref = endash;
 }
 );
 width = 500;

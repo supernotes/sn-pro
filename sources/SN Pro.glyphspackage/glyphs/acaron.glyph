@@ -13,7 +13,7 @@ pos = (255,0);
 ref = caroncomb;
 }
 );
-width = 494;
+width = 484;
 },
 {
 layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
@@ -48,11 +48,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (300,0);
+pos = (290,0);
 ref = caroncomb;
 }
 );
-width = 504;
+width = 494;
 },
 {
 layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
