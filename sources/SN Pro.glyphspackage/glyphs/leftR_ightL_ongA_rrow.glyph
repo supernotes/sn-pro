@@ -11,7 +11,7 @@ ref = leftLongArrow;
 scale = (1,-1);
 },
 {
-pos = (695,0);
+pos = (695,2);
 ref = rightlongArrow;
 }
 );
@@ -26,7 +26,7 @@ ref = leftLongArrow;
 scale = (1,-1);
 },
 {
-pos = (695,0);
+pos = (695,2);
 ref = rightlongArrow;
 }
 );
@@ -41,7 +41,7 @@ ref = leftLongArrow;
 scale = (1,-1);
 },
 {
-pos = (695,0);
+pos = (695,2);
 ref = rightlongArrow;
 }
 );
@@ -71,7 +71,7 @@ ref = leftLongArrow;
 scale = (1,-1);
 },
 {
-pos = (695,0);
+pos = (695,3);
 ref = rightlongArrow;
 }
 );
@@ -86,7 +86,7 @@ ref = leftLongArrow;
 scale = (1,-1);
 },
 {
-pos = (700,0);
+pos = (700,2);
 ref = rightlongArrow;
 }
 );

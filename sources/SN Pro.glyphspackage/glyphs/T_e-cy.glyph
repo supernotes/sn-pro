@@ -114,7 +114,7 @@ shapes = (
 ref = T;
 }
 );
-width = 600;
+width = 654;
 },
 {
 anchors = (
@@ -170,7 +170,7 @@ shapes = (
 ref = T;
 }
 );
-width = 563;
+width = 617;
 }
 );
 unicode = 1058;

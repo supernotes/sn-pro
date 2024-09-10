@@ -1212,6 +1212,7 @@ GSOffsetHorizontal = 5;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -13450,7 +13451,7 @@ rightArrow = -40;
 "@MMK_R_A" = -80;
 "@MMK_R_Bhook" = 20;
 "@MMK_R_J" = -60;
-"@MMK_R_O" = -40;
+"@MMK_R_O" = -20;
 "@MMK_R_S" = -20;
 "@MMK_R_T" = 15;
 "@MMK_R_V" = 20;

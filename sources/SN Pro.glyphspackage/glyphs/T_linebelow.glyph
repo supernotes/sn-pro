@@ -94,11 +94,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (234,0);
+pos = (288,0);
 ref = macronbelowcomb;
 }
 );
-width = 600;
+width = 654;
 },
 {
 background = {
@@ -142,11 +142,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (215,0);
+pos = (269,0);
 ref = macronbelowcomb;
 }
 );
-width = 563;
+width = 617;
 }
 );
 unicode = 7790;

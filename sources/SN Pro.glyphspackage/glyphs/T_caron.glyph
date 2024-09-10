@@ -94,11 +94,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (323,-35);
+pos = (377,-35);
 ref = caroncomb.case;
 }
 );
-width = 600;
+width = 654;
 },
 {
 background = {
@@ -142,11 +142,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (319,-35);
+pos = (373,-35);
 ref = caroncomb.case;
 }
 );
-width = 563;
+width = 617;
 }
 );
 unicode = 356;
