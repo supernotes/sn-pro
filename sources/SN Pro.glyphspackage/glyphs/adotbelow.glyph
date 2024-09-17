@@ -24,7 +24,7 @@ pos = (252,0);
 ref = dotbelowcomb;
 }
 );
-width = 494;
+width = 484;
 },
 {
 background = {
@@ -68,11 +68,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (228,0);
+pos = (218,0);
 ref = dotbelowcomb;
 }
 );
-width = 504;
+width = 494;
 },
 {
 background = {

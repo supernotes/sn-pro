@@ -26,7 +26,7 @@ pos = (268,0);
 ref = "brevecomb-cy";
 }
 );
-width = 500;
+width = 490;
 },
 {
 background = {
@@ -74,7 +74,7 @@ pos = (303,0);
 ref = "brevecomb-cy";
 }
 );
-width = 510;
+width = 500;
 },
 {
 background = {

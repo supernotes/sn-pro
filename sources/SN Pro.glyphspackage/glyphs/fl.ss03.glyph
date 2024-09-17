@@ -70,11 +70,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (422,0);
+pos = (430,0);
 ref = l.ss03;
 }
 );
-width = 786;
+width = 794;
 },
 {
 anchors = (

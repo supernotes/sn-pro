@@ -1,5 +1,5 @@
 {
-.appVersion = "3249";
+.appVersion = "3317";
 .formatVersion = 3;
 axes = (
 {
@@ -73,18 +73,19 @@ value = 1;
 name = "Axis Mappings";
 value = {
 slnt = {
--3 = -3;
 0 = 0;
+14 = -3;
 };
 wght = {
 200 = 42;
 300 = 61;
-400 = 82;
-500 = 96;
-600 = 115;
-700 = 140;
+350 = 82;
+400 = 94;
+500 = 110;
+600 = 124;
+700 = 142;
 800 = 172;
-900 = 208;
+900 = 204;
 };
 };
 },
@@ -101,7 +102,7 @@ value = (
 );
 }
 );
-date = "2023-12-18 01:02:44 +0000";
+date = "2024-09-17 09:44:04 +0000";
 familyName = "SN Pro";
 featurePrefixes = (
 {
@@ -792,7 +793,7 @@ pos = -180;
 {
 }
 );
-name = ExtraLight;
+name = Thin;
 stemValues = (
 39,
 41,
@@ -960,6 +961,7 @@ GSExtrudeOffset = 20;
 GSOffsetHorizontal = -20;
 GSOffsetVertical = -20;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -1063,7 +1065,7 @@ pos = -180;
 {
 }
 );
-name = Heavy;
+name = Black;
 stemValues = (
 178,
 179,
@@ -1194,7 +1196,7 @@ pos = -180;
 pos = 9;
 }
 );
-name = "ExtraLight Italic";
+name = "Thin Italic";
 stemValues = (
 39,
 41,
@@ -1211,6 +1213,7 @@ GSOffsetHorizontal = 5;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -1436,7 +1439,7 @@ pos = -180;
 pos = 9;
 }
 );
-name = "Heavy Italic";
+name = "Black Italic";
 stemValues = (
 109,
 110,
@@ -1458,6 +1461,10 @@ customParameters = (
 {
 name = fileName;
 value = "SNPro-Variable";
+},
+{
+name = "Italic Style Linking";
+value = 1;
 }
 );
 name = Combined;
@@ -1583,6 +1590,18 @@ axesValues = (
 82,
 0
 );
+instanceInterpolations = {
+"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.48193;
+"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.51807;
+};
+name = Book;
+weightClass = 350;
+},
+{
+axesValues = (
+94,
+0
+);
 customParameters = (
 {
 name = underlineThickness;
@@ -1590,14 +1609,14 @@ value = 40;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.48193;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.51807;
+"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.62651;
+"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.37349;
 };
 name = Regular;
 },
 {
 axesValues = (
-96,
+110,
 0
 );
 customParameters = (
@@ -1607,15 +1626,15 @@ value = 50;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.6506;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.3494;
+"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.81928;
+"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.18072;
 };
 name = Medium;
 weightClass = 500;
 },
 {
 axesValues = (
-115,
+124,
 0
 );
 customParameters = (
@@ -1625,8 +1644,8 @@ value = 60;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.87952;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.12048;
+"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.98795;
+"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.01205;
 };
 name = SemiBold;
 properties = (
@@ -1644,7 +1663,7 @@ weightClass = 600;
 },
 {
 axesValues = (
-140,
+142,
 0
 );
 customParameters = (
@@ -1654,8 +1673,8 @@ value = 80;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.81928;
-"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.18072;
+"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.79518;
+"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.20482;
 };
 isBold = 1;
 name = Bold;
@@ -1686,11 +1705,12 @@ weightClass = 800;
 },
 {
 axesValues = (
-208,
+204,
 0
 );
 instanceInterpolations = {
-"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 1;
+"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.04819;
+"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.95181;
 };
 name = Black;
 properties = (
@@ -1749,6 +1769,20 @@ axesValues = (
 82,
 -3
 );
+instanceInterpolations = {
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.48193;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.51807;
+};
+isItalic = 1;
+linkStyle = Light;
+name = "Book Italic";
+weightClass = 350;
+},
+{
+axesValues = (
+94,
+-3
+);
 customParameters = (
 {
 name = underlineThickness;
@@ -1756,8 +1790,8 @@ value = 40;
 }
 );
 instanceInterpolations = {
-"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.48193;
-"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.51807;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.62651;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.37349;
 };
 isItalic = 1;
 linkStyle = Regular;
@@ -1776,7 +1810,7 @@ value = "Regular Italic";
 },
 {
 axesValues = (
-96,
+112,
 -3
 );
 customParameters = (
@@ -1786,8 +1820,8 @@ value = 50;
 }
 );
 instanceInterpolations = {
-"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.6506;
-"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.3494;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.84337;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.15663;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -1795,7 +1829,7 @@ name = "Medium Italic";
 },
 {
 axesValues = (
-115,
+124,
 -3
 );
 customParameters = (
@@ -1805,8 +1839,8 @@ value = 60;
 }
 );
 instanceInterpolations = {
-"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.87952;
-"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.12048;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.98795;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.01205;
 };
 isItalic = 1;
 linkStyle = Semibold;
@@ -1826,7 +1860,7 @@ weightClass = 600;
 },
 {
 axesValues = (
-140,
+142,
 -3
 );
 customParameters = (
@@ -1836,8 +1870,8 @@ value = 80;
 }
 );
 instanceInterpolations = {
-"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.81928;
-"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 0.18072;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.79518;
+"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 0.20482;
 };
 isBold = 1;
 isItalic = 1;
@@ -1872,11 +1906,12 @@ weightClass = 800;
 },
 {
 axesValues = (
-208,
+204,
 -3
 );
 instanceInterpolations = {
-"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 1;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.04819;
+"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 0.95181;
 };
 isItalic = 1;
 linkStyle = Black;
@@ -2443,7 +2478,7 @@ rightArrow = -40;
 "@MMK_R_guilsinglleft" = -35;
 "@MMK_R_guilsinglright" = -20;
 "@MMK_R_hyphen" = -30;
-"@MMK_R_n" = -10;
+"@MMK_R_n" = 0;
 "@MMK_R_o" = -20;
 "@MMK_R_ord" = 25;
 "@MMK_R_period" = -50;
@@ -2696,8 +2731,8 @@ rightArrow = -40;
 "@MMK_R_guilsinglright" = -40;
 "@MMK_R_h" = 0;
 "@MMK_R_hyphen" = -45;
-"@MMK_R_n" = -55;
-"@MMK_R_o" = -55;
+"@MMK_R_n" = -35;
+"@MMK_R_o" = -35;
 "@MMK_R_ord" = 30;
 "@MMK_R_period" = -50;
 "@MMK_R_quesion" = 10;
@@ -3075,7 +3110,7 @@ rlinebelow = 80;
 "@MMK_R_slash" = -2;
 "@MMK_R_t" = 1;
 "@MMK_R_trademark" = -25;
-"@MMK_R_v" = -5;
+"@MMK_R_v" = 0;
 "@MMK_R_x" = -5;
 "@MMK_R_z" = 2;
 };
@@ -3885,7 +3920,7 @@ j = 100;
 "@MMK_R_guilsinglleft" = -15;
 "@MMK_R_guilsinglright" = -10;
 "@MMK_R_hyphen" = -20;
-"@MMK_R_o" = -5;
+"@MMK_R_o" = 0;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -50;
 "@MMK_R_quesion" = -20;
@@ -4072,6 +4107,10 @@ seven.numr = {
 tcaron = {
 "@MMK_R_h" = 5;
 };
+three = {
+four = 0;
+three = -10;
+};
 yhook = {
 "@MMK_R_f" = 49;
 "@MMK_R_v" = 30;
@@ -4096,7 +4135,7 @@ yhook = {
 "@MMK_R_guilsinglleft" = -18;
 "@MMK_R_guilsinglright" = -5;
 "@MMK_R_hyphen" = -18;
-"@MMK_R_o" = -5;
+"@MMK_R_o" = -15;
 "@MMK_R_ord" = -88;
 "@MMK_R_period" = 20;
 "@MMK_R_quesion" = -55;
@@ -4625,7 +4664,7 @@ rightArrow = -60;
 "@MMK_R_guilsinglleft" = -38;
 "@MMK_R_guilsinglright" = -15;
 "@MMK_R_hyphen" = -28;
-"@MMK_R_n" = -10;
+"@MMK_R_n" = 0;
 "@MMK_R_o" = -25;
 "@MMK_R_ord" = 23;
 "@MMK_R_period" = -53;
@@ -4878,8 +4917,8 @@ rightArrow = -60;
 "@MMK_R_guilsinglright" = -50;
 "@MMK_R_h" = 10;
 "@MMK_R_hyphen" = -50;
-"@MMK_R_n" = -58;
-"@MMK_R_o" = -63;
+"@MMK_R_n" = -28;
+"@MMK_R_o" = -43;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -55;
 "@MMK_R_quesion" = 15;
@@ -6078,7 +6117,7 @@ jdotless = 100;
 "@MMK_R_guilsinglleft" = -18;
 "@MMK_R_guilsinglright" = -10;
 "@MMK_R_hyphen" = -18;
-"@MMK_R_o" = -25;
+"@MMK_R_o" = 0;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -48;
 "@MMK_R_quesion" = -18;
@@ -6266,6 +6305,9 @@ four = -50;
 };
 seven.numr = {
 "@MMK_R_fraction" = -40;
+};
+three = {
+"@MMK_R_S" = -20;
 };
 yhook = {
 "@MMK_R_f" = 47;
@@ -6819,7 +6861,7 @@ rightArrow = -60;
 "@MMK_R_guilsinglleft" = -40;
 "@MMK_R_guilsinglright" = -10;
 "@MMK_R_hyphen" = -25;
-"@MMK_R_n" = -10;
+"@MMK_R_n" = 0;
 "@MMK_R_o" = -30;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -55;
@@ -7072,8 +7114,8 @@ rightArrow = -60;
 "@MMK_R_guilsinglright" = -60;
 "@MMK_R_h" = 40;
 "@MMK_R_hyphen" = -55;
-"@MMK_R_n" = -60;
-"@MMK_R_o" = -70;
+"@MMK_R_n" = -40;
+"@MMK_R_o" = -50;
 "@MMK_R_ord" = 10;
 "@MMK_R_period" = -60;
 "@MMK_R_quesion" = 20;
@@ -8276,7 +8318,7 @@ jdotless = 100;
 "@MMK_R_slash" = -20;
 "@MMK_R_t" = 20;
 "@MMK_R_trademark" = -20;
-"@MMK_R_v" = 50;
+"@MMK_R_v" = 30;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -10;
 tbar = 38;
@@ -8308,7 +8350,7 @@ tcaron = 38;
 "@MMK_R_slash" = 20;
 "@MMK_R_trademark" = -30;
 "@MMK_R_v" = -10;
-"@MMK_R_z" = -5;
+"@MMK_R_z" = -10;
 };
 "@MMK_L_z" = {
 "@MMK_R_J" = -10;
@@ -8454,6 +8496,9 @@ four = -40;
 };
 seven.numr = {
 "@MMK_R_fraction" = -30;
+};
+three = {
+two = -10;
 };
 yhook = {
 "@MMK_R_f" = 45;
@@ -13435,7 +13480,7 @@ rightArrow = -40;
 "@MMK_R_A" = -80;
 "@MMK_R_Bhook" = 20;
 "@MMK_R_J" = -60;
-"@MMK_R_O" = -40;
+"@MMK_R_O" = -20;
 "@MMK_R_S" = -20;
 "@MMK_R_T" = 15;
 "@MMK_R_V" = 20;
@@ -15115,5 +15160,5 @@ GSDimensionPlugin.Dimensions = {
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
