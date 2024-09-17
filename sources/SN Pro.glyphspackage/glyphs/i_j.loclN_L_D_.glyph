@@ -46,11 +46,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (296,0);
+pos = (295,0);
 ref = j;
 }
 );
-width = 599;
+width = 598;
 },
 {
 background = {
