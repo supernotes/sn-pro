@@ -15070,11 +15070,11 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 The SN Pro Authors (https://github.com/supernotes/SN-Pro), with Reserved Font Name \"SN Pro\"";
+value = "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)";
 },
 {
 language = dflt;
-value = "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)";
+value = "Copyright 2024 The SN Pro Authors (https://github.com/supernotes/SN-Pro), with Reserved Font Name \"SN Pro\"";
 }
 );
 },
