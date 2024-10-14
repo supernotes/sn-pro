@@ -1,5 +1,5 @@
 {
-.appVersion = "3317";
+.appVersion = "3324";
 .formatVersion = 3;
 axes = (
 {
@@ -73,8 +73,8 @@ value = 1;
 name = "Axis Mappings";
 value = {
 slnt = {
+-3 = -3;
 0 = 0;
-14 = -3;
 };
 wght = {
 200 = 42;
@@ -1494,9 +1494,9 @@ value = "SNPro-VariableRegular";
 {
 name = "Disable Masters";
 value = (
-"ExtraLight Italic",
+"Thin Italic",
 "Bold Italic",
-"Heavy Italic"
+"Black Italic"
 );
 }
 );
@@ -1527,9 +1527,9 @@ value = "SNPro-VariableItalic";
 {
 name = "Disable Masters";
 value = (
-ExtraLight,
+Thin,
 Bold,
-Heavy
+Black
 );
 }
 );
