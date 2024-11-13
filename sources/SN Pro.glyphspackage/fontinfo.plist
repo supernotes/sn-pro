@@ -1,5 +1,5 @@
 {
-.appVersion = "3317";
+.appVersion = "3324";
 .formatVersion = 3;
 axes = (
 {
@@ -73,8 +73,8 @@ value = 1;
 name = "Axis Mappings";
 value = {
 slnt = {
+-3 = -3;
 0 = 0;
-14 = -3;
 };
 wght = {
 200 = 42;
@@ -102,7 +102,7 @@ value = (
 );
 }
 );
-date = "2024-09-17 09:44:04 +0000";
+date = "2024-11-13 19:12:30 +0000";
 familyName = "SN Pro";
 featurePrefixes = (
 {
@@ -503,7 +503,7 @@ sub less emdash greater by leftRightLongArrow;
 sub less equal greater by leftRightDoubleArrow;
 sub less equal equal greater by leftRightLongDoubleArrow;
 sub exclam equal by notequal;
-";
+sub less exclam hyphen hyphen by leftExclamLongArrow;";
 tag = liga;
 },
 {
@@ -1084,7 +1084,6 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 0;
 GSOffsetVertical = -100;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -1213,7 +1212,6 @@ GSOffsetHorizontal = 5;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -1494,9 +1492,9 @@ value = "SNPro-VariableRegular";
 {
 name = "Disable Masters";
 value = (
-"ExtraLight Italic",
+"Thin Italic",
 "Bold Italic",
-"Heavy Italic"
+"Black Italic"
 );
 }
 );
@@ -1527,9 +1525,9 @@ value = "SNPro-VariableItalic";
 {
 name = "Disable Masters";
 value = (
-ExtraLight,
+Thin,
 Bold,
-Heavy
+Black
 );
 }
 );
@@ -9305,7 +9303,7 @@ rightArrow = -40;
 "@MMK_R_guilsinglright" = -40;
 "@MMK_R_h" = 0;
 "@MMK_R_hyphen" = -45;
-"@MMK_R_n" = -55;
+"@MMK_R_n" = -15;
 "@MMK_R_o" = -55;
 "@MMK_R_ord" = 30;
 "@MMK_R_period" = -50;
@@ -11477,7 +11475,7 @@ rightArrow = -40;
 "@MMK_R_guilsinglright" = -50;
 "@MMK_R_h" = 50;
 "@MMK_R_hyphen" = -50;
-"@MMK_R_n" = -58;
+"@MMK_R_n" = -28;
 "@MMK_R_o" = -63;
 "@MMK_R_ord" = 20;
 "@MMK_R_period" = -55;
@@ -13659,7 +13657,7 @@ rightArrow = -40;
 "@MMK_R_guilsinglright" = -60;
 "@MMK_R_h" = 40;
 "@MMK_R_hyphen" = -55;
-"@MMK_R_n" = -60;
+"@MMK_R_n" = -50;
 "@MMK_R_o" = -70;
 "@MMK_R_ord" = 10;
 "@MMK_R_period" = -60;
@@ -14744,7 +14742,7 @@ jdotless = 100;
 "@MMK_R_exclam" = 5;
 "@MMK_R_f" = -8;
 "@MMK_R_guilsinglleft" = -15;
-"@MMK_R_h" = 20;
+"@MMK_R_h" = 5;
 "@MMK_R_hyphen" = 5;
 "@MMK_R_o" = -5;
 "@MMK_R_ord" = 20;
@@ -15070,11 +15068,11 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 The SN Pro Authors (https://github.com/supernotes/SN-Pro), with Reserved Font Name \"SN Pro\"";
+value = "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)";
 },
 {
 language = dflt;
-value = "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)";
+value = "Copyright 2024 The SN Pro Authors (https://github.com/supernotes/SN-Pro), with Reserved Font Name \"SN Pro\"";
 }
 );
 },
@@ -15160,5 +15158,5 @@ GSDimensionPlugin.Dimensions = {
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }

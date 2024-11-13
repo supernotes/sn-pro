@@ -82,7 +82,7 @@ pos = (10,0);
 ref = i;
 }
 );
-width = 316;
+width = 315;
 },
 {
 background = {
