@@ -1,4 +1,4 @@
-Copyright 2024 SN Pro Authors (https://github.com/supernotes/sn-pro), with Reserved Font Name "SN Pro"
+Copyright 2024 SN Pro Authors (https://github.com/supernotes/sn-pro)
 Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
