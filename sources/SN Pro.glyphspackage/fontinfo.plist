@@ -1825,6 +1825,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
+weightClass = 500;
 },
 {
 axesValues = (
