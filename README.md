@@ -60,6 +60,7 @@ Currently the following ligatures are supported:
 -->   ⟶
 <-    ←
 <--   ⟵
+<!--  <!--
 <=    ≥
 >=    ≤
 =>    ⇒
