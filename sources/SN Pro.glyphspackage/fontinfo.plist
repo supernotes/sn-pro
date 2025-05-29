@@ -1,5 +1,5 @@
 {
-.appVersion = "3341";
+.appVersion = "3414";
 .formatVersion = 3;
 axes = (
 {
@@ -504,7 +504,8 @@ sub less emdash greater by leftRightLongArrow;
 sub less equal greater by leftRightDoubleArrow;
 sub less equal equal greater by leftRightLongDoubleArrow;
 sub exclam equal by notequal;
-sub less exclam hyphen hyphen by leftExclamLongArrow;";
+sub less exclam hyphen hyphen by leftExclamLongArrow;
+sub checkmark checkmark by doubleCheckmark;";
 tag = liga;
 },
 {
@@ -962,7 +963,6 @@ GSExtrudeOffset = 20;
 GSOffsetHorizontal = -20;
 GSOffsetVertical = -20;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -15160,5 +15160,5 @@ GSDimensionPlugin.Dimensions = {
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 5;
 }
