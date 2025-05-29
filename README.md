@@ -70,6 +70,7 @@ Currently the following ligatures are supported:
 <=>   ⇔
 <==>  ⟺
 !=    ≠
+✓✓    ✓✓
 ```
 
 Please make sure ligatures are active within your editor / css. Circled numbers [are not currently present in the ligature spec](https://github.com/supernotes/sn-pro/issues/5#issuecomment-1967209090).
