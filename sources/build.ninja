@@ -1,0 +1,92 @@
+# buildVariable: Build a variable font from a source file
+rule buildVariable
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o variable $
+      $fontmake_type $in $args $stamp
+  description = buildVariable
+
+# subspace: Run varLib.instancer to subspace a variable font
+rule subspace
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner fonttools varLib.instancer $args -o $out $
+      $in $axes $stamp
+  description = subspace
+
+# fix: Run gftools-fix
+rule fix
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
+  description = fix
+
+# exec: Run an arbitrary executable
+rule exec
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner $exe $args $stamp
+  description = exec
+
+# buildStat: Build a STAT table from one or more source files
+rule buildSTAT-operation
+  command = gftools-gen-stat --out $tempdir $args -- $in && mv $finalfile $
+      $out $stamp
+rule buildSTAT-postprocess
+  command = gftools-gen-stat --inplace $args -- $in $stamp
+
+# copy: Copy a file
+rule copy
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner cp $in $out $stamp
+  description = copy
+
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3: $
+    buildVariable SN$ Pro.glyphspackage
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Postprocessing  with BuildSTAT
+build $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpu1t2bete.buildStatstamp: $
+    buildSTAT-postprocess ../fonts/variable/SN$ Pro[wght].ttf $
+    ../fonts/variable/SN$ Pro-Italic[wght].ttf | $
+    ../fonts/variable/SN$ Pro[wght].ttf $
+    ../fonts/variable/SN$ Pro-Italic[wght].ttf
+  stamp =  && touch $
+      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpu1t2bete.buildStatstamp
+  postprocess = buildStat
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq3jkf6ni
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq3jkf6ni: $
+    subspace /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3
+  operation = subspace
+  axes = slnt=0.0
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcszeb3xy
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcszeb3xy: $
+    subspace /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3
+  operation = subspace
+  axes = slnt=-3.0
+# Generating ../fonts/variable/SN Pro[wght].ttf
+build ../fonts/variable/SN$ Pro[wght].ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq3jkf6ni
+  operation = fix
+  args = 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpga33tsin
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpga33tsin: exec $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcszeb3xy
+  exe = gftools-fontsetter
+  args = -o /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpga33tsin $
+      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcszeb3xy $
+      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp7fk_jpmk
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbmzpllp8
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbmzpllp8: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpga33tsin
+  operation = fix
+  args = --include-source-fixes
+# Generating ../fonts/variable/SN Pro-Italic[wght].ttf
+build ../fonts/variable/SN$ Pro-Italic[wght].ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbmzpllp8
+  operation = fix
+  args = 
+default $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpu1t2bete.buildStatstamp $
+    ../fonts/variable/SN$ Pro[wght].ttf
