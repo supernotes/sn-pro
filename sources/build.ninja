@@ -37,8 +37,8 @@ rule copy
       gftools.builder.jobrunner cp $in $out $stamp
   description = copy
 
-# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3
-build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3: $
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq19hfk5a
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq19hfk5a: $
     buildVariable SN$ Pro.glyphspackage
   operation = buildVariable
   args = --filter ...  --filter FlattenComponentsFilter --filter $
@@ -47,46 +47,46 @@ build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3: $
   fontmake_args =  --verbose WARNING 
 # Postprocessing  with BuildSTAT
 build $
-    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpu1t2bete.buildStatstamp: $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpk8b52i3x.buildStatstamp: $
     buildSTAT-postprocess ../fonts/variable/SN$ Pro[wght].ttf $
     ../fonts/variable/SN$ Pro-Italic[wght].ttf | $
     ../fonts/variable/SN$ Pro[wght].ttf $
     ../fonts/variable/SN$ Pro-Italic[wght].ttf
   stamp =  && touch $
-      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpu1t2bete.buildStatstamp
+      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpk8b52i3x.buildStatstamp
   postprocess = buildStat
-# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq3jkf6ni
-build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq3jkf6ni: $
-    subspace /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpgf4ztv5r
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpgf4ztv5r: $
+    subspace /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq19hfk5a
   operation = subspace
-  axes = slnt=0.0
-# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcszeb3xy
-build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcszeb3xy: $
-    subspace /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpico_vqv3
+  axes = ital=0
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpkf6fhhue
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpkf6fhhue: $
+    subspace /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq19hfk5a
   operation = subspace
-  axes = slnt=-3.0
+  axes = ital=1
 # Generating ../fonts/variable/SN Pro[wght].ttf
 build ../fonts/variable/SN$ Pro[wght].ttf: fix $
-    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpq3jkf6ni
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpgf4ztv5r
   operation = fix
   args = 
-# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpga33tsin
-build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpga33tsin: exec $
-    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcszeb3xy
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp13dd_cr1
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp13dd_cr1: exec $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpkf6fhhue
   exe = gftools-fontsetter
-  args = -o /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpga33tsin $
-      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcszeb3xy $
-      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp7fk_jpmk
-# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbmzpllp8
-build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbmzpllp8: fix $
-    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpga33tsin
+  args = -o /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp13dd_cr1 $
+      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpkf6fhhue $
+      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpozwe33al
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp1fl9jbx8
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp1fl9jbx8: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp13dd_cr1
   operation = fix
   args = --include-source-fixes
 # Generating ../fonts/variable/SN Pro-Italic[wght].ttf
 build ../fonts/variable/SN$ Pro-Italic[wght].ttf: fix $
-    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbmzpllp8
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp1fl9jbx8
   operation = fix
   args = 
 default $
-    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpu1t2bete.buildStatstamp $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpk8b52i3x.buildStatstamp $
     ../fonts/variable/SN$ Pro[wght].ttf

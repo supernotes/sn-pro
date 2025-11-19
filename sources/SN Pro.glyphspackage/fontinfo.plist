@@ -1537,6 +1537,21 @@ axesValues = (
 42,
 0
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
 instanceInterpolations = {
 "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 1;
 };
@@ -1547,6 +1562,21 @@ weightClass = 200;
 axesValues = (
 61,
 0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
 );
 instanceInterpolations = {
 "18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.22892;
@@ -1564,6 +1594,19 @@ customParameters = (
 {
 name = underlineThickness;
 value = 40;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -1581,6 +1624,19 @@ customParameters = (
 {
 name = underlineThickness;
 value = 50;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -1599,6 +1655,19 @@ customParameters = (
 {
 name = underlineThickness;
 value = 60;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -1616,6 +1685,19 @@ customParameters = (
 {
 name = underlineThickness;
 value = 80;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -1631,6 +1713,21 @@ axesValues = (
 172,
 0
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
 instanceInterpolations = {
 "18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.43373;
 "4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.56627;
@@ -1643,6 +1740,21 @@ axesValues = (
 208,
 0
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
 instanceInterpolations = {
 "4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 1;
 };
@@ -1653,6 +1765,21 @@ weightClass = 900;
 axesValues = (
 42,
 0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
 );
 instanceInterpolations = {
 "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 1;
@@ -1666,6 +1793,21 @@ weightClass = 200;
 axesValues = (
 61,
 0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
 );
 instanceInterpolations = {
 "18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.22892;
@@ -1685,6 +1827,19 @@ customParameters = (
 {
 name = underlineThickness;
 value = 40;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -1704,6 +1859,19 @@ customParameters = (
 {
 name = underlineThickness;
 value = 50;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -1724,6 +1892,19 @@ customParameters = (
 {
 name = underlineThickness;
 value = 60;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -1743,6 +1924,19 @@ customParameters = (
 {
 name = underlineThickness;
 value = 80;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -1760,6 +1954,21 @@ axesValues = (
 172,
 0
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
+);
 instanceInterpolations = {
 "18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.43373;
 "4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.56627;
@@ -1773,6 +1982,21 @@ weightClass = 800;
 axesValues = (
 208,
 0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
 );
 instanceInterpolations = {
 "4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 1;
