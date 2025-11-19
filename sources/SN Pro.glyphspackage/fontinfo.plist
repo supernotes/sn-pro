@@ -1128,11 +1128,7 @@ Location = 200;
 },
 {
 Axis = Italic;
-Location = 1;
-},
-{
-Axis = Slant;
-Location = -3;
+Location = 9;
 }
 );
 }
@@ -1252,15 +1248,11 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 640;
+Location = 600;
 },
 {
 Axis = Italic;
-Location = 1;
-},
-{
-Axis = Slant;
-Location = -3;
+Location = 9;
 }
 );
 }
@@ -1374,11 +1366,7 @@ Location = 900;
 },
 {
 Axis = Italic;
-Location = 1;
-},
-{
-Axis = Slant;
-Location = -3;
+Location = 9;
 }
 );
 }
@@ -1764,7 +1752,7 @@ weightClass = 900;
 {
 axesValues = (
 42,
-0
+9
 );
 customParameters = (
 {
@@ -1776,13 +1764,13 @@ Location = 200;
 },
 {
 Axis = Italic;
-Location = 1;
+Location = 9;
 }
 );
 }
 );
 instanceInterpolations = {
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 1;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 1;
 };
 isItalic = 1;
 linkStyle = Thin;
@@ -1792,7 +1780,7 @@ weightClass = 200;
 {
 axesValues = (
 61,
-0
+9
 );
 customParameters = (
 {
@@ -1804,14 +1792,14 @@ Location = 300;
 },
 {
 Axis = Italic;
-Location = 1;
+Location = 9;
 }
 );
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.22892;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.77108;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.22892;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.77108;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -1821,7 +1809,7 @@ weightClass = 300;
 {
 axesValues = (
 94,
-0
+9
 );
 customParameters = (
 {
@@ -1837,14 +1825,14 @@ Location = 400;
 },
 {
 Axis = Italic;
-Location = 1;
+Location = 9;
 }
 );
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.62651;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.37349;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.62651;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.37349;
 };
 isItalic = 1;
 linkStyle = Regular;
@@ -1853,7 +1841,7 @@ name = "Regular Italic";
 {
 axesValues = (
 112,
-0
+9
 );
 customParameters = (
 {
@@ -1869,14 +1857,14 @@ Location = 500;
 },
 {
 Axis = Italic;
-Location = 1;
+Location = 9;
 }
 );
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.84337;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.15663;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.84337;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.15663;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -1886,7 +1874,7 @@ weightClass = 500;
 {
 axesValues = (
 125,
-0
+9
 );
 customParameters = (
 {
@@ -1902,13 +1890,13 @@ Location = 600;
 },
 {
 Axis = Italic;
-Location = 1;
+Location = 9;
 }
 );
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 1;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 1;
 };
 isItalic = 1;
 linkStyle = Semibold;
@@ -1918,7 +1906,7 @@ weightClass = 600;
 {
 axesValues = (
 142,
-0
+9
 );
 customParameters = (
 {
@@ -1934,14 +1922,14 @@ Location = 700;
 },
 {
 Axis = Italic;
-Location = 1;
+Location = 9;
 }
 );
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.79518;
-"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.20482;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.79518;
+"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 0.20482;
 };
 isBold = 1;
 isItalic = 1;
@@ -1952,7 +1940,7 @@ weightClass = 700;
 {
 axesValues = (
 172,
-0
+9
 );
 customParameters = (
 {
@@ -1964,14 +1952,14 @@ Location = 800;
 },
 {
 Axis = Italic;
-Location = 1;
+Location = 9;
 }
 );
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.43373;
-"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.56627;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.43373;
+"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 0.56627;
 };
 isItalic = 1;
 linkStyle = Heavy;
@@ -1981,7 +1969,7 @@ weightClass = 800;
 {
 axesValues = (
 208,
-0
+9
 );
 customParameters = (
 {
@@ -1993,13 +1981,13 @@ Location = 900;
 },
 {
 Axis = Italic;
-Location = 1;
+Location = 9;
 }
 );
 }
 );
 instanceInterpolations = {
-"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 1;
+"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 1;
 };
 isItalic = 1;
 linkStyle = Black;
