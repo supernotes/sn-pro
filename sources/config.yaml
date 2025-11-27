@@ -1,7 +1,7 @@
 sources:
-  - SN Pro.glyphs
+  - SN Pro.glyphspackage
 outputDir: "../fonts"
-buildStatic: false
+cleanUp: true
 axisOrder:
   - wght
   - ital
