@@ -5,6 +5,10 @@ axes = (
 {
 name = Weight;
 tag = wght;
+},
+{
+name = Italic;
+tag = ital;
 }
 );
 classes = (
@@ -673,7 +677,8 @@ tag = ss03;
 fontMaster = (
 {
 axesValues = (
-42
+42,
+0
 );
 customParameters = (
 {
@@ -785,7 +790,8 @@ GSOffsetVertical = 20;
 },
 {
 axesValues = (
-125
+125,
+0
 );
 customParameters = (
 {
@@ -923,7 +929,8 @@ GSOffsetVertical = -20;
 },
 {
 axesValues = (
-208
+208,
+0
 );
 customParameters = (
 {
@@ -1036,7 +1043,8 @@ GSOffsetVertical = -100;
 },
 {
 axesValues = (
-42
+42,
+1
 );
 customParameters = (
 {
@@ -1155,7 +1163,8 @@ GSOffsetVertical = 10;
 },
 {
 axesValues = (
-125
+125,
+1
 );
 customParameters = (
 {
@@ -1264,7 +1273,8 @@ GSCornerRadius = 80;
 },
 {
 axesValues = (
-208
+208,
+1
 );
 customParameters = (
 {
@@ -1476,7 +1486,8 @@ type = variable;
 },
 {
 axesValues = (
-42
+42,
+0
 );
 customParameters = (
 {
@@ -1497,7 +1508,8 @@ weightClass = 200;
 },
 {
 axesValues = (
-61
+61,
+0
 );
 customParameters = (
 {
@@ -1519,7 +1531,8 @@ weightClass = 300;
 },
 {
 axesValues = (
-94
+94,
+0
 );
 customParameters = (
 {
@@ -1544,7 +1557,8 @@ name = Regular;
 },
 {
 axesValues = (
-110
+110,
+0
 );
 customParameters = (
 {
@@ -1570,7 +1584,8 @@ weightClass = 500;
 },
 {
 axesValues = (
-125
+125,
+0
 );
 customParameters = (
 {
@@ -1595,7 +1610,8 @@ weightClass = 600;
 },
 {
 axesValues = (
-142
+142,
+0
 );
 customParameters = (
 {
@@ -1622,7 +1638,8 @@ weightClass = 700;
 },
 {
 axesValues = (
-172
+172,
+0
 );
 customParameters = (
 {
@@ -1644,7 +1661,8 @@ weightClass = 800;
 },
 {
 axesValues = (
-208
+208,
+0
 );
 customParameters = (
 {
@@ -1665,7 +1683,8 @@ weightClass = 900;
 },
 {
 axesValues = (
-42
+42,
+1
 );
 customParameters = (
 {
@@ -1679,7 +1698,7 @@ Location = 200;
 }
 );
 instanceInterpolations = {
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 1;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 1;
 };
 isItalic = 1;
 linkStyle = Thin;
@@ -1688,7 +1707,8 @@ weightClass = 200;
 },
 {
 axesValues = (
-61
+61,
+1
 );
 customParameters = (
 {
@@ -1702,8 +1722,8 @@ Location = 300;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.22892;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.77108;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.22892;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.77108;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -1712,7 +1732,8 @@ weightClass = 300;
 },
 {
 axesValues = (
-94
+94,
+1
 );
 customParameters = (
 {
@@ -1730,8 +1751,8 @@ Location = 400;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.62651;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.37349;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.62651;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.37349;
 };
 isItalic = 1;
 linkStyle = Regular;
@@ -1739,7 +1760,8 @@ name = Italic;
 },
 {
 axesValues = (
-112
+112,
+1
 );
 customParameters = (
 {
@@ -1757,8 +1779,8 @@ Location = 500;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.84337;
-"F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0" = 0.15663;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.84337;
+"D8D4984A-F5A5-43C0-BF2B-5708C10C5E92" = 0.15663;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -1767,7 +1789,8 @@ weightClass = 500;
 },
 {
 axesValues = (
-125
+125,
+1
 );
 customParameters = (
 {
@@ -1785,7 +1808,7 @@ Location = 600;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 1;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 1;
 };
 isItalic = 1;
 linkStyle = Semibold;
@@ -1794,7 +1817,8 @@ weightClass = 600;
 },
 {
 axesValues = (
-142
+142,
+1
 );
 customParameters = (
 {
@@ -1812,8 +1836,8 @@ Location = 700;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.79518;
-"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.20482;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.79518;
+"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 0.20482;
 };
 isBold = 1;
 isItalic = 1;
@@ -1823,7 +1847,8 @@ weightClass = 700;
 },
 {
 axesValues = (
-172
+172,
+1
 );
 customParameters = (
 {
@@ -1837,8 +1862,8 @@ Location = 800;
 }
 );
 instanceInterpolations = {
-"18203F29-5161-4D9B-8394-C173CC5E27D4" = 0.43373;
-"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 0.56627;
+"8FF16B21-C988-4EC9-A448-39B9B4A4BD78" = 0.43373;
+"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 0.56627;
 };
 isItalic = 1;
 linkStyle = Heavy;
@@ -1847,7 +1872,8 @@ weightClass = 800;
 },
 {
 axesValues = (
-208
+208,
+1
 );
 customParameters = (
 {
@@ -1861,7 +1887,7 @@ Location = 900;
 }
 );
 instanceInterpolations = {
-"4121B50C-FD42-45C5-8FBE-41E76D98F91E" = 1;
+"C92D7C27-2246-4784-91DF-7F4E0C5E615D" = 1;
 };
 isItalic = 1;
 linkStyle = Black;
@@ -15009,11 +15035,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)";
-},
-{
-language = dflt;
-value = "Copyright 2024 The SN Pro Authors (https://github.com/supernotes/SN-Pro)";
+value = "Copyright 2024 SN Pro Project Authors (https://github.com/supernotes/sn-pro)";
 }
 );
 },
@@ -15035,13 +15057,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;

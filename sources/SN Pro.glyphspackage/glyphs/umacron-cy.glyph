@@ -1,10 +1,20 @@
 {
-color = 10;
+color = 9;
 glyphname = "umacron-cy";
 kernLeft = "u-cy";
 kernRight = "u-cy";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (374,0);
+},
+{
+name = top;
+pos = (255,685);
+}
+);
 background = {
 shapes = (
 {
@@ -29,6 +39,16 @@ ref = macroncomb;
 width = 509;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (459,0);
+},
+{
+name = top;
+pos = (285,685);
+}
+);
 background = {
 shapes = (
 {
@@ -53,6 +73,16 @@ ref = macroncomb;
 width = 570;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (335,0);
+},
+{
+name = top;
+pos = (315,685);
+}
+);
 background = {
 shapes = (
 {
@@ -77,6 +107,16 @@ ref = macroncomb;
 width = 510;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (423,0);
+},
+{
+name = top;
+pos = (336,685);
+}
+);
 background = {
 shapes = (
 {
@@ -101,6 +141,16 @@ ref = macroncomb;
 width = 569;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (417,0);
+},
+{
+name = top;
+pos = (271,685);
+}
+);
 background = {
 shapes = (
 {
@@ -125,6 +175,16 @@ ref = macroncomb;
 width = 542;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (378,0);
+},
+{
+name = top;
+pos = (327,685);
+}
+);
 background = {
 shapes = (
 {

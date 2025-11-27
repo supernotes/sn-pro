@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 9;
 glyphname = "Adieresis-cy";
 kernLeft = "A-cy";
 kernRight = "A-cy";
@@ -22,7 +22,7 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (357,0);
+pos = (332,0);
 ref = dieresiscomb.case;
 }
 );
@@ -46,7 +46,7 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (386,0);
+pos = (375,0);
 ref = dieresiscomb.case;
 }
 );
@@ -70,7 +70,7 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (434,0);
+pos = (437,0);
 ref = dieresiscomb.case;
 }
 );
@@ -94,7 +94,7 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (456,0);
+pos = (461,0);
 ref = dieresiscomb.case;
 }
 );
@@ -118,7 +118,7 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (372,0);
+pos = (353,0);
 ref = dieresiscomb.case;
 }
 );
@@ -142,7 +142,7 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (445,0);
+pos = (450,0);
 ref = dieresiscomb.case;
 }
 );
