@@ -871,6 +871,7 @@ locked = 1;
 pos = (451,162);
 }
 );
+iconName = SemiBold;
 id = "18203F29-5161-4D9B-8394-C173CC5E27D4";
 metricValues = (
 {
