@@ -68,18 +68,6 @@ value = 0;
 {
 name = "Use Line Breaks";
 value = 1;
-},
-{
-disabled = 1;
-name = "Disable Masters";
-value = (
-"ExtraLight Old",
-"ExtraLight Italic Old",
-"Bold Old",
-"Bold Italic Old",
-"Heavy Old",
-"Heavy Italic Old"
-);
 }
 );
 date = "2024-11-13 19:12:30 +0000";
@@ -883,7 +871,6 @@ locked = 1;
 pos = (451,162);
 }
 );
-iconName = Bold;
 id = "18203F29-5161-4D9B-8394-C173CC5E27D4";
 metricValues = (
 {
