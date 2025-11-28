@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 6;
 glyphname = "schwadieresis-cy";
 kernLeft = "ie-cy";
 kernRight = "be-cy";

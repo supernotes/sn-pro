@@ -1,5 +1,5 @@
 {
-color = 6;
+color = 10;
 glyphname = numbersign.lowercase;
 kernLeft = numbersign;
 kernRight = numbersign;

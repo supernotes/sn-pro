@@ -1,5 +1,5 @@
 {
-color = 6;
+color = 10;
 glyphname = perthousand;
 kernLeft = percent;
 kernRight = percent;

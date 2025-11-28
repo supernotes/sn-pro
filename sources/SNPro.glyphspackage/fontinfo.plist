@@ -15064,9 +15064,6 @@ key = manufacturerURL;
 value = "https://supernotes.app";
 }
 );
-settings = {
-disablesNiceNames = 1;
-};
 stems = (
 {
 horizontal = 1;

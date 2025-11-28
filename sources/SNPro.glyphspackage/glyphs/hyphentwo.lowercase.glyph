@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 6;
 glyphname = hyphentwo.lowercase;
 kernLeft = hyphen;
 kernRight = hyphen;
