@@ -8,7 +8,7 @@ layers = (
 anchors = (
 {
 name = caret_1;
-pos = (259,0);
+pos = (226.5,0);
 }
 );
 background = {
@@ -45,7 +45,7 @@ width = 453;
 anchors = (
 {
 name = caret_1;
-pos = (359.5,0);
+pos = (391.5,0);
 }
 );
 background = {
@@ -117,7 +117,7 @@ width = 518;
 anchors = (
 {
 name = caret_1;
-pos = (359.5,0);
+pos = (394.5,0);
 }
 );
 background = {
@@ -153,7 +153,7 @@ width = 789;
 anchors = (
 {
 name = caret_1;
-pos = (309,0);
+pos = (308.5,0);
 }
 );
 background = {
@@ -189,7 +189,7 @@ width = 617;
 anchors = (
 {
 name = caret_1;
-pos = (309,0);
+pos = (322.5,0);
 }
 );
 background = {

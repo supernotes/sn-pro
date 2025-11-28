@@ -5,6 +5,20 @@ kernLeft = h;
 kernRight = l;
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (106,0);
+},
+{
+name = bottom_2;
+pos = (317,0);
+},
+{
+name = caret_1;
+pos = (211.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -29,6 +43,20 @@ ref = j;
 width = 423;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (150,0);
+},
+{
+name = bottom_2;
+pos = (449,0);
+},
+{
+name = caret_1;
+pos = (299,0);
+}
+);
 background = {
 shapes = (
 {
@@ -53,6 +81,20 @@ ref = j;
 width = 598;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (69,0);
+},
+{
+name = bottom_2;
+pos = (282,0);
+},
+{
+name = caret_1;
+pos = (213.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -77,6 +119,20 @@ ref = j;
 width = 427;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (111,0);
+},
+{
+name = bottom_2;
+pos = (410,0);
+},
+{
+name = caret_1;
+pos = (299,0);
+}
+);
 background = {
 shapes = (
 {
@@ -101,6 +157,20 @@ ref = j;
 width = 598;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (123,0);
+},
+{
+name = bottom_2;
+pos = (370,0);
+},
+{
+name = caret_1;
+pos = (246.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -125,6 +195,20 @@ ref = j;
 width = 493;
 },
 {
+anchors = (
+{
+name = bottom_1;
+pos = (90,0);
+},
+{
+name = bottom_2;
+pos = (347,0);
+},
+{
+name = caret_1;
+pos = (257,0);
+}
+);
 background = {
 shapes = (
 {
