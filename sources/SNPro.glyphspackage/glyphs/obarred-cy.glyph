@@ -8,24 +8,23 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (272,484);
+pos = (269,484);
 }
 );
 background = {
 anchors = (
 {
 name = top;
-pos = (272,484);
+pos = (269,484);
 }
 );
 shapes = (
 {
 alignment = 1;
-pos = (3,0);
 ref = _part.oslash;
 },
 {
-pos = (272,-5);
+pos = (269,-5);
 ref = strokecomb.obarred;
 }
 );
@@ -34,16 +33,15 @@ layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
 shapes = (
 {
 alignment = -1;
-pos = (3,0);
 ref = _part.oslash;
 },
 {
 alignment = -1;
-pos = (272,-5);
+pos = (269,-5);
 ref = strokecomb.obarred;
 }
 );
-width = 544;
+width = 540;
 },
 {
 anchors = (
