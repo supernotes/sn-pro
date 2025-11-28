@@ -15023,7 +15023,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 SN Pro Project Authors (https://github.com/supernotes/sn-pro)";
+value = "Copyright 2024 The SN Pro Project Authors (https://github.com/supernotes/sn-pro)";
 }
 );
 },
