@@ -1,0 +1,181 @@
+{
+color = 6;
+glyphname = less;
+layers = (
+{
+.lastUpdate = 786030347.394;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(564,81,l),
+(104,298,l),
+(104,276,l),
+(564,494,l),
+(564,537,l),
+(76,305,l),
+(76,269,l),
+(564,37,l)
+);
+}
+);
+};
+layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
+shapes = (
+{
+pos = (404,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 404;
+},
+{
+.lastUpdate = 786030073.266;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(627,177,l),
+(186,337,l),
+(186,236,l),
+(627,396,l),
+(627,546,l),
+(139,364,l),
+(139,211,l),
+(627,28,l)
+);
+}
+);
+};
+layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
+shapes = (
+{
+pos = (478,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 478;
+},
+{
+.lastUpdate = 786030073.424;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(598,78,l),
+(173,295,l),
+(169,273,l),
+(663,491,l),
+(670,537,l),
+(146,305,l),
+(140,269,l),
+(591,37,l)
+);
+}
+);
+};
+layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
+shapes = (
+{
+pos = (475,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 444;
+},
+{
+.lastUpdate = 786030073.734;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(675,169,l),
+(261,329,l),
+(245,228,l),
+(710,388,l),
+(735,546,l),
+(218,364,l),
+(194,211,l),
+(653,28,l)
+);
+}
+);
+};
+layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
+shapes = (
+{
+pos = (539,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 518;
+},
+{
+.lastUpdate = 786030073.105;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(617,129,l),
+(167,318,l),
+(167,256,l),
+(617,445,l),
+(617,542,l),
+(129,335,l),
+(129,240,l),
+(617,33,l)
+);
+}
+);
+};
+layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
+shapes = (
+{
+pos = (468,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 468;
+},
+{
+.lastUpdate = 786030073.583;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(670,124,l),
+(250,312,l),
+(240,251,l),
+(720,440,l),
+(736,542,l),
+(215,335,l),
+(200,240,l),
+(655,33,l)
+);
+}
+);
+};
+layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
+shapes = (
+{
+pos = (540,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 509;
+}
+);
+unicode = 60;
+}

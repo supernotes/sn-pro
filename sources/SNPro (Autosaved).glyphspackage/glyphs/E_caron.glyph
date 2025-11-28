@@ -1,0 +1,177 @@
+{
+color = 10;
+glyphname = Ecaron;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+.lastUpdate = 786030174.18;
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (320,0);
+ref = caroncomb.case;
+}
+);
+};
+layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (320,-35);
+ref = caroncomb.case;
+}
+);
+width = 570;
+},
+{
+.lastUpdate = 786030073.136;
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (336,0);
+ref = caroncomb.case;
+}
+);
+};
+layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (336,-35);
+ref = caroncomb.case;
+}
+);
+width = 624;
+},
+{
+.lastUpdate = 786030073.293;
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (396,0);
+ref = caroncomb.case;
+}
+);
+};
+layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (396,-35);
+ref = caroncomb.case;
+}
+);
+width = 570;
+},
+{
+.lastUpdate = 786030073.61;
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (405,0);
+ref = caroncomb.case;
+}
+);
+};
+layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (405,0);
+ref = caroncomb.case;
+}
+);
+width = 624;
+},
+{
+.lastUpdate = 786030072.948;
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (328,0);
+ref = caroncomb.case;
+}
+);
+};
+layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (308,-35);
+ref = caroncomb.case;
+}
+);
+width = 577;
+},
+{
+.lastUpdate = 786030073.453;
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (401,0);
+ref = caroncomb.case;
+}
+);
+};
+layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (401,-35);
+ref = caroncomb.case;
+}
+);
+width = 597;
+}
+);
+unicode = 282;
+userData = {
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+);
+lib = {
+};
+name = Ecaron;
+unicodes = (
+);
+width = 1234;
+};
+};
+};
+}

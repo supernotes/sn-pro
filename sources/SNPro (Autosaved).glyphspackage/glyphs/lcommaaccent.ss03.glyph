@@ -1,0 +1,158 @@
+{
+color = 10;
+glyphname = lcommaaccent.ss03;
+kernLeft = h;
+kernRight = ltail;
+layers = (
+{
+.lastUpdate = 786030174.193;
+background = {
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (181,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (181,0);
+ref = commaaccentcomb;
+}
+);
+width = 275;
+},
+{
+.lastUpdate = 786030073.193;
+background = {
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (203,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (203,0);
+ref = commaaccentcomb;
+}
+);
+width = 364;
+},
+{
+.lastUpdate = 786030073.352;
+background = {
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (143,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (143,0);
+ref = commaaccentcomb;
+}
+);
+width = 275;
+},
+{
+.lastUpdate = 786030073.664;
+background = {
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (169,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (169,0);
+ref = commaaccentcomb;
+}
+);
+width = 364;
+},
+{
+.lastUpdate = 786030073.01;
+background = {
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (192,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (192,0);
+ref = commaaccentcomb;
+}
+);
+width = 319;
+},
+{
+.lastUpdate = 786030073.512;
+background = {
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (156,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (156,0);
+ref = commaaccentcomb;
+}
+);
+width = 319;
+}
+);
+}
