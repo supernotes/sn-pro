@@ -671,11 +671,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 911;
+value = 985;
 },
 {
 name = typoDescender;
-value = -253;
+value = -315;
 },
 {
 name = typoLineGap;
@@ -691,11 +691,15 @@ value = 300;
 },
 {
 name = hheaAscender;
-value = 911;
+value = 985;
 },
 {
 name = hheaDescender;
-value = -253;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlinePosition;
@@ -704,10 +708,6 @@ value = -120;
 {
 name = underlineThickness;
 value = 36;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = strikeoutPosition;
@@ -784,11 +784,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 911;
+value = 985;
 },
 {
 name = typoDescender;
-value = -253;
+value = -315;
 },
 {
 name = typoLineGap;
@@ -800,11 +800,15 @@ value = 1077;
 },
 {
 name = hheaAscender;
-value = 911;
+value = 985;
 },
 {
 name = hheaDescender;
-value = -253;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlinePosition;
@@ -813,10 +817,6 @@ value = -130;
 {
 name = underlineThickness;
 value = 75;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = winDescent;
@@ -923,11 +923,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 911;
+value = 985;
 },
 {
 name = typoDescender;
-value = -253;
+value = -315;
 },
 {
 name = typoLineGap;
@@ -943,11 +943,15 @@ value = 300;
 },
 {
 name = hheaAscender;
-value = 911;
+value = 985;
 },
 {
 name = hheaDescender;
-value = -253;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlinePosition;
@@ -956,10 +960,6 @@ value = -90;
 {
 name = underlineThickness;
 value = 100;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = strikeoutPosition;
@@ -1037,11 +1037,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 911;
+value = 985;
 },
 {
 name = typoDescender;
-value = -253;
+value = -315;
 },
 {
 name = typoLineGap;
@@ -1057,11 +1057,15 @@ value = 300;
 },
 {
 name = hheaAscender;
-value = 911;
+value = 985;
 },
 {
 name = hheaDescender;
-value = -253;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlinePosition;
@@ -1070,10 +1074,6 @@ value = -120;
 {
 name = underlineThickness;
 value = 36;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = "Master Icon Glyph Name";
@@ -1157,11 +1157,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 911;
+value = 985;
 },
 {
 name = typoDescender;
-value = -253;
+value = -315;
 },
 {
 name = typoLineGap;
@@ -1177,11 +1177,15 @@ value = 300;
 },
 {
 name = hheaAscender;
-value = 911;
+value = 985;
 },
 {
 name = hheaDescender;
-value = -253;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlinePosition;
@@ -1190,10 +1194,6 @@ value = -130;
 {
 name = underlineThickness;
 value = 75;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = "Master Icon Glyph Name";
@@ -1267,11 +1267,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 911;
+value = 985;
 },
 {
 name = typoDescender;
-value = -253;
+value = -315;
 },
 {
 name = typoLineGap;
@@ -1287,11 +1287,15 @@ value = 300;
 },
 {
 name = hheaAscender;
-value = 911;
+value = 985;
 },
 {
 name = hheaDescender;
-value = -253;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlinePosition;
@@ -1300,10 +1304,6 @@ value = -90;
 {
 name = underlineThickness;
 value = 100;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = "Master Icon Glyph Name";
