@@ -1,0 +1,85 @@
+{
+color = 9;
+glyphname = Ucaron;
+layers = (
+{
+layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (360,-35);
+ref = caroncomb.case;
+}
+);
+width = 720;
+},
+{
+layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (350,-35);
+ref = caroncomb.case;
+}
+);
+width = 699;
+},
+{
+layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (379,-35);
+ref = caroncomb.case;
+}
+);
+width = 754;
+},
+{
+layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (433,-35);
+ref = caroncomb.case;
+}
+);
+width = 720;
+},
+{
+layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (441,-35);
+ref = caroncomb.case;
+}
+);
+width = 738;
+},
+{
+layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (435,-35);
+ref = caroncomb.case;
+}
+);
+width = 754;
+}
+);
+unicode = 467;
+}

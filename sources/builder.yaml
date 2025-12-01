@@ -1,7 +1,0 @@
-sources:
-  - Nunito.glyphs
-outputDir: "../fonts"
-buildStatic: false
-axisOrder:
-  - wght
-  - ital
