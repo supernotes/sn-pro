@@ -1,5 +1,5 @@
 {
-.appVersion = "3500";
+.appVersion = "3506";
 .formatVersion = 3;
 axes = (
 {
@@ -772,6 +772,7 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 1;
 GSOffsetVertical = 20;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -855,7 +856,7 @@ pos = (714,-149);
 },
 {
 angle = 90;
-pos = (41,441);
+pos = (30,441);
 },
 {
 pos = (0,758);
@@ -911,6 +912,7 @@ GSExtrudeOffset = 20;
 GSOffsetHorizontal = -20;
 GSOffsetVertical = -20;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -1025,6 +1027,7 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 0;
 GSOffsetVertical = -100;
 };
+visible = 1;
 },
 {
 axesValues = (
