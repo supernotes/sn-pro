@@ -1,91 +1,85 @@
 {
 color = 9;
-glyphname = ecedilla;
+glyphname = ngrave;
 layers = (
 {
-guides = (
-{
-angle = 90;
-pos = (255,464);
-}
-);
 layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
 shapes = (
 {
-ref = e;
+ref = n;
 },
 {
-pos = (277,0);
-ref = cedillacomb;
+pos = (267,0);
+ref = gravecomb;
 }
 );
-width = 523;
+width = 543;
 },
 {
 layerId = "18203F29-5161-4D9B-8394-C173CC5E27D4";
 shapes = (
 {
-ref = e;
+ref = n;
 },
 {
-pos = (286,0);
-ref = cedillacomb;
+pos = (294,0);
+ref = gravecomb;
 }
 );
-width = 539;
+width = 585;
 },
 {
 layerId = "4121B50C-FD42-45C5-8FBE-41E76D98F91E";
 shapes = (
 {
-ref = e;
+ref = n;
 },
 {
-pos = (300,0);
-ref = cedillacomb;
+pos = (311,0);
+ref = gravecomb;
 }
 );
-width = 580;
+width = 618;
 },
 {
 layerId = "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92";
 shapes = (
 {
-ref = e;
+ref = n;
 },
 {
-pos = (245,0);
-ref = cedillacomb;
+pos = (306,0);
+ref = gravecomb;
 }
 );
-width = 523;
+width = 543;
 },
 {
 layerId = "8FF16B21-C988-4EC9-A448-39B9B4A4BD78";
 shapes = (
 {
-ref = e;
+ref = n;
 },
 {
-pos = (255,0);
-ref = cedillacomb;
+pos = (325,0);
+ref = gravecomb;
 }
 );
-width = 542;
+width = 582;
 },
 {
 layerId = "C92D7C27-2246-4784-91DF-7F4E0C5E615D";
 shapes = (
 {
-ref = e;
+ref = n;
 },
 {
-pos = (264,0);
-ref = cedillacomb;
+pos = (340,0);
+ref = gravecomb;
 }
 );
-width = 570;
+width = 618;
 }
 );
-unicode = 553;
+unicode = 505;
 }
