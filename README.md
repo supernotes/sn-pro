@@ -14,14 +14,13 @@ SN Pro is available in `.otf`, `.ttf`, `.woff` and `.woff2` formats, with nine w
 
 | Weight Name | Value |
 | ----------- | ----- |
-| Thin        | 200   |
+| ExtraLight  | 200   |
 | Light       | 300   |
-| Book        | 350   |
 | Regular     | 400   |
 | Medium      | 500   |
-| Semi Bold   | 600   |
+| SemiBold    | 600   |
 | Bold        | 700   |
-| Heavy       | 800   |
+| ExtraBold   | 800   |
 | Black       | 900   |
 
 ### Variable
