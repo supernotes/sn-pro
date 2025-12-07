@@ -772,7 +772,6 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 1;
 GSOffsetVertical = 20;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -912,7 +911,6 @@ GSExtrudeOffset = 20;
 GSOffsetHorizontal = -20;
 GSOffsetVertical = -20;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -1027,7 +1025,6 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 0;
 GSOffsetVertical = -100;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -1148,6 +1145,7 @@ GSOffsetHorizontal = 5;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
+visible = 1;
 },
 {
 axesValues = (

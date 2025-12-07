@@ -3,6 +3,12 @@ color = 9;
 glyphname = ecedilla;
 layers = (
 {
+guides = (
+{
+angle = 90;
+pos = (255,464);
+}
+);
 layerId = "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0";
 shapes = (
 {
